@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<!--"$Date: 04-01-13 16:45 $ $Revision: 3 $"-->
+<Keyboard xmlns="urn:kentima.se:ASRi" Width="600" Height="228" BackColor="ece9d8" >
+
+	<!-- Defines the layout of the built in QWERTY keyboard -->
+
+<!-- Normalt -->
+	<!-- 1 2 3 4 5 6 7 8 9 0 - = -->
+	<!-- q w e r t y u i o p ( + -->
+	<!-- a s d f g h j k l : ) \ -->
+	<!-- z x c v b n m , . / -->
+
+
+ 	<Font Size="15" Family="Tahoma" />
+
+	<TextWindow X="2" Y="2" Width="565" Height="40" />
+	<SpecialKey Type="Close" X="570" Y="2" Width="45" Height="42" />
+
+	<StandardKey Character="1" X="2" Y="46" Width="45" Height="45" />
+	<StandardKey Character="2" X="47" Y="46" Width="45" Height="45" />
+	<StandardKey Character="3" X="92" Y="46" Width="45" Height="45" />
+	<StandardKey Character="4" X="137" Y="46" Width="45" Height="45" />
+	<StandardKey Character="5" X="182" Y="46" Width="45" Height="45" />
+	<StandardKey Character="6" X="227" Y="46" Width="45" Height="45" />
+	<StandardKey Character="7" X="272" Y="46" Width="45" Height="45" />
+	<StandardKey Character="8" X="317" Y="46" Width="45" Height="45" />
+	<StandardKey Character="9" X="362" Y="46" Width="45" Height="45" />
+	<StandardKey Character="0" X="407" Y="46" Width="45" Height="45" />
+	<StandardKey Character="-" X="452" Y="46" Width="45" Height="45" />
+	<StandardKey Character="=" X="497" Y="46" Width="45" Height="45" />
+
+	<StandardKey Character="Q" X="14" Y="91" Width="45" Height="45" />
+	<StandardKey Character="W" X="59" Y="91" Width="45" Height="45" />
+	<StandardKey Character="E" X="104" Y="91" Width="45" Height="45" />
+	<StandardKey Character="R" X="149" Y="91" Width="45" Height="45" />
+	<StandardKey Character="T" X="194" Y="91" Width="45" Height="45" />
+	<StandardKey Character="Y" X="239" Y="91" Width="45" Height="45" />
+	<StandardKey Character="U" X="284" Y="91" Width="45" Height="45" />
+	<StandardKey Character="I" X="329" Y="91" Width="45" Height="45" />
+	<StandardKey Character="O" X="374" Y="91" Width="45" Height="45" />
+	<StandardKey Character="P" X="419" Y="91" Width="45" Height="45" />
+	<StandardKey Character="(" X="464" Y="91" Width="45" Height="45" />
+	<StandardKey Character="+" X="509" Y="91" Width="45" Height="45" />
+	<SpecialKey Type="Enter" X="570" Y="91" Width="45" Height="90" />
+
+	<StandardKey Character="A" X="30" Y="136" Width="45" Height="45" />
+	<StandardKey Character="S" X="75" Y="136" Width="45" Height="45" />
+	<StandardKey Character="D" X="120" Y="136" Width="45" Height="45" />
+	<StandardKey Character="F" X="165" Y="136" Width="45" Height="45" />
+	<StandardKey Character="G" X="210" Y="136" Width="45" Height="45" />
+	<StandardKey Character="H" X="255" Y="136" Width="45" Height="45" />
+	<StandardKey Character="J" X="300" Y="136" Width="45" Height="45" />
+	<StandardKey Character="K" X="345" Y="136" Width="45" Height="45" />
+	<StandardKey Character="L" X="390" Y="136" Width="45" Height="45" />
+	<StandardKey Character=":" X="435" Y="136" Width="45" Height="45" />
+	<StandardKey Character=")" X="480" Y="136" Width="45" Height="45" />
+	<StandardKey Character="\" X="525" Y="136" Width="45" Height="45" />
+
+	<StandardKey Character="Z" X="50" Y="181" Width="45" Height="45" />
+	<StandardKey Character="X" X="95" Y="181" Width="45" Height="45" />
+	<StandardKey Character="C" X="140" Y="181" Width="45" Height="45" />
+	<StandardKey Character="V" X="185" Y="181" Width="45" Height="45" />
+	<StandardKey Character="B" X="230" Y="181" Width="45" Height="45" />
+	<StandardKey Character="N" X="275" Y="181" Width="45" Height="45" />
+	<StandardKey Character="M" X="320" Y="181" Width="45" Height="45" />
+	<StandardKey Character="," X="365" Y="181" Width="45" Height="45" />
+	<StandardKey Character="." X="410" Y="181" Width="45" Height="45" />
+	<StandardKey Character="/" X="455" Y="181" Width="45" Height="45" />
+	<SpecialKey Type="Tab" X="500" Y="181" Width="114" Height="45" /> 
+<!--	<StandardKey Character="Shift" X="500" Y="181" Width="115" Height="45" /> -->
+
+	<SpecialKey Type="SwapCase" X="2" Y="226" Width="93" Height="45" />
+	<StandardKey Character=" " X="95" Y="226" Width="430" Height="45" />
+<!-- SpecialKey Type="SwapCase" X="390" Y="226" Width="90" Height="45" / -->
+	<SpecialKey Type="Left" X="525" Y="226" Width="45" Height="45" />
+	<SpecialKey Type="Right" X="570" Y="226" Width="45" Height="45" />
+
+	<SpecialKey Type="Delete" X="542" Y="46" Width="73" Height="45" />
+
+<!--	<SpecialKey Type="SpinUp" X="130" Y="60" Width="40" Height="60" /> -->
+<!--	<SpecialKey Type="SpinDown" X="130" Y="120" Width="40" Height="60" /> -->
+<!--	<SpecialKey Type="Prev" X="10" Y="220" Width="80" Height="40" /> -->
+<!--	<SpecialKey Type="Next" X="90" Y="220" Width="80" Height="40" /> -->
+</Keyboard>

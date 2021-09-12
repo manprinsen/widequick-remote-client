@@ -1,0 +1,6 @@
+<?xml version='1.0'?>
+<Users XMLVersion="4">
+ <User Login="Admin" Password="b40v59bu2tellnmstlas">
+  <Privilege Permission="granted" Name="EditUsers"/>
+ </User>
+</Users>

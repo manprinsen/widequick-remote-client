@@ -1,0 +1,1048 @@
+<?xml version='1.0'?>
+<ObjectsDefaults XMLVersion="4">
+ <Box Roundness="0" RoundedCorners="false">
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <XPos Value="20"/>
+  <YPos Value="20"/>
+  <Width Value="50"/>
+  <Height Value="50"/>
+  <Rotation Value="0"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Brush Type="solid">
+   <Colors Count="1">
+    <Color Value="ffc1c1c1"/>
+   </Colors>
+   <Dynamics/>
+  </Brush>
+  <Pen Type="solid">
+   <Style Value="solid"/>
+   <Colors Count="1">
+    <Color Value="ff000000"/>
+    <Color Value="ffffffff"/>
+   </Colors>
+   <Width Value="1"/>
+   <Dynamics/>
+  </Pen>
+ </Box>
+ <Ellipse>
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <XPos Value="90"/>
+  <YPos Value="20"/>
+  <Width Value="50"/>
+  <Height Value="50"/>
+  <Rotation Value="0"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Brush Type="solid">
+   <Colors Count="1">
+    <Color Value="ff00aaff"/>
+   </Colors>
+   <Dynamics/>
+  </Brush>
+  <Pen Type="solid">
+   <Style Value="solid"/>
+   <Colors Count="1">
+    <Color Value="ff000000"/>
+    <Color Value="ffffffff"/>
+   </Colors>
+   <Width Value="1"/>
+   <Dynamics/>
+  </Pen>
+ </Ellipse>
+ <Triangle>
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <XPos Value="160"/>
+  <YPos Value="20"/>
+  <Width Value="50"/>
+  <Height Value="50"/>
+  <Rotation Value="0"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Brush Type="solid">
+   <Colors Count="1">
+    <Color Value="ffff6f29"/>
+   </Colors>
+   <Dynamics/>
+  </Brush>
+  <Pen Type="solid">
+   <Style Value="solid"/>
+   <Colors Count="1">
+    <Color Value="ff000000"/>
+    <Color Value="ffffffff"/>
+   </Colors>
+   <Width Value="1"/>
+   <Dynamics/>
+  </Pen>
+ </Triangle>
+ <Polygon>
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <XPos Value="230"/>
+  <YPos Value="20"/>
+  <Width Value="50"/>
+  <Height Value="50"/>
+  <Rotation Value="0"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Brush Type="solid">
+   <Colors Count="1">
+    <Color Value="ffe5e5e5"/>
+   </Colors>
+   <Dynamics/>
+  </Brush>
+  <Pen Type="solid">
+   <Style Value="solid"/>
+   <Colors Count="1">
+    <Color Value="ff000000"/>
+    <Color Value="ffffffff"/>
+   </Colors>
+   <Width Value="1"/>
+   <Dynamics/>
+  </Pen>
+  <Points>
+   <Point X="0" Y="0"/>
+   <Point X="100" Y="0"/>
+   <Point X="100" Y="50"/>
+   <Point X="50" Y="100"/>
+   <Point X="0" Y="50"/>
+  </Points>
+ </Polygon>
+ <Arch>
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <StartAngle Value="0"/>
+  <EndAngle Value="90"/>
+  <InnerRadius Value="0"/>
+  <XPos Value="300"/>
+  <YPos Value="200"/>
+  <Width Value="200"/>
+  <Height Value="200"/>
+  <Rotation Value="0"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Brush Type="solid">
+   <Colors Count="1">
+    <Color Value="ff00ff00"/>
+   </Colors>
+   <Dynamics/>
+  </Brush>
+  <Pen Type="solid">
+   <Style Value="solid"/>
+   <Colors Count="1">
+    <Color Value="ff000000"/>
+    <Color Value="ffffffff"/>
+   </Colors>
+   <Width Value="1"/>
+   <Dynamics/>
+  </Pen>
+ </Arch>
+ <Line>
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <XPos Value="300"/>
+  <YPos Value="20"/>
+  <Rotation Value="0"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Pen Type="solid">
+   <Style Value="solid"/>
+   <Colors Count="1">
+    <Color Value="ff000000"/>
+    <Color Value="ffffffff"/>
+   </Colors>
+   <Width Value="3"/>
+   <Dynamics/>
+  </Pen>
+  <XEndPos Value="50"/>
+  <YEndPos Value="50"/>
+ </Line>
+ <Text Value="Text" WordWrap="false" UnitConvRule="">
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <XPos Value="0"/>
+  <YPos Value="0"/>
+  <Width Value="auto"/>
+  <Height Value="auto"/>
+  <Rotation Value="0"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Brush>
+   <Colors Count="0"/>
+   <Dynamics/>
+  </Brush>
+  <Pen Type="nopen">
+   <Style Value="nopen"/>
+   <Colors Count="0">
+    <Color Value="ff000000"/>
+    <Color Value="ffffffff"/>
+   </Colors>
+   <Width Value="1"/>
+   <Dynamics/>
+  </Pen>
+  <Font Size="12" Italic="false" VerticalAlignment="top" Family="MS Shell Dlg" Underline="false" Color="ff000000" Bold="false" Overstrike="false" HorizontalAlignment="left">
+   <Dynamics/>
+  </Font>
+ </Text>
+ <Image Src="" ImageMode="Tiled" Roundness="0">
+  <Origo y="top" X="left" Y="0"/>
+  <TabIndex Value="0"/>
+  <XPos Value="300"/>
+  <YPos Value="20"/>
+  <Width Value="50"/>
+  <Height Value="50"/>
+  <Rotation Value="0"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Brush>
+   <Colors Count="0"/>
+   <Dynamics/>
+  </Brush>
+  <Pen Type="solid">
+   <Style Value="solid"/>
+   <Colors Count="1">
+    <Color Value="ff000000"/>
+    <Color Value="ffffffff"/>
+   </Colors>
+   <Width Value="1"/>
+   <Dynamics/>
+  </Pen>
+ </Image>
+ <Camera Timeout="10000" Address="" User="" URL="" Port="80" EncryptedPassword="">
+  <Origo y="top" X="left" Y="0"/>
+  <TabIndex Value="0"/>
+  <XPos Value="300"/>
+  <YPos Value="20"/>
+  <Width Value="160"/>
+  <Height Value="120"/>
+  <Rotation Value="0"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Brush>
+   <Colors Count="0"/>
+   <Dynamics/>
+  </Brush>
+  <Pen Type="solid">
+   <Style Value="solid"/>
+   <Colors Count="1">
+    <Color Value="ff000000"/>
+    <Color Value="ffffffff"/>
+   </Colors>
+   <Width Value="1"/>
+   <Dynamics/>
+  </Pen>
+ </Camera>
+ <BarChart YAxisUnit="" XAxisUnit="" DataVariable="" AutoSave="true" AxisArrows="true">
+  <Box Role="background" Roundness="0">
+   <TabIndex Value="0"/>
+   <SizeModifiers Value="0"/>
+   <Dynamics/>
+   <Properties/>
+   <EventListeners/>
+   <Brush Type="solid">
+    <Colors Count="1">
+     <Color Value="ffffffff"/>
+    </Colors>
+    <Dynamics/>
+   </Brush>
+   <Pen Type="solid">
+    <Style Value="solid"/>
+    <Colors Count="1">
+     <Color Value="ff000000"/>
+     <Color Value="ffffffff"/>
+    </Colors>
+    <Width Value="1"/>
+    <Dynamics/>
+   </Pen>
+  </Box>
+  <Box Role="bar" Roundness="0">
+   <TabIndex Value="0"/>
+   <SizeModifiers Value="0"/>
+   <Dynamics/>
+   <Properties/>
+   <EventListeners/>
+   <Brush Type="solid">
+    <Colors Count="1">
+     <Color Value="ff0000ff"/>
+    </Colors>
+    <Dynamics/>
+   </Brush>
+   <Pen Type="solid">
+    <Style Value="solid"/>
+    <Colors Count="1">
+     <Color Value="ff000000"/>
+     <Color Value="ffffffff"/>
+    </Colors>
+    <Width Value="1"/>
+    <Dynamics/>
+   </Pen>
+  </Box>
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <XPos Value="255"/>
+  <YPos Value="340"/>
+  <Width Value="150"/>
+  <Height Value="75"/>
+  <Rotation Value="0"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Decimals Value="0"/>
+  <Font Size="12" Italic="false" VerticalAlignment="center" Family="Arial" Underline="false" Color="ff000000" Bold="false" Overstrike="false" HorizontalAlignment="center">
+   <Dynamics/>
+  </Font>
+  <XAxisLabels Show="false"/>
+  <YAxisMin Value="0"/>
+  <YAxisMax Value="100"/>
+ </BarChart>
+ <BarChart2 BackgroundColor="ffffffff" DataVariable="" Pen="ff000000">
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <XPos Value="20"/>
+  <YPos Value="20"/>
+  <Width Value="150"/>
+  <Height Value="150"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Font Size="12" Italic="false" VerticalAlignment="top" Family="Arial" Underline="false" Color="ff000000" Bold="false" Overstrike="false" HorizontalAlignment="left">
+   <Dynamics/>
+  </Font>
+  <Bars Spacing="0" Line="true" Width="15" LineColor="ff000000" Type="1" LineWidth="1"/>
+  <YAxis Show="false" Decimals="0" Label="" Max="auto" Format="0" Min="auto" Unit="">
+   <Grid Visible="false" Style="0" Width="1" Color="ff000000" Interval="1"/>
+  </YAxis>
+  <XAxis Src="0" Show="false" Label="" TextAngle="0" Max="auto" DataVariable="" Min="auto">
+   <Texts/>
+  </XAxis>
+  <Legend Src="0" Show="false" DataVariable="">
+   <Texts/>
+  </Legend>
+ </BarChart2>
+ <LineChart XAxisUnit="" XAxisLogaritmic="false" AutoSave="true" UnitConvRule="" AxisArrows="true">
+  <Box Role="background" Roundness="0">
+   <TabIndex Value="0"/>
+   <SizeModifiers Value="0"/>
+   <Dynamics/>
+   <Properties/>
+   <EventListeners/>
+   <Brush Type="solid">
+    <Colors Count="1">
+     <Color Value="ffffffff"/>
+    </Colors>
+    <Dynamics/>
+   </Brush>
+   <Pen Type="solid">
+    <Style Value="solid"/>
+    <Colors Count="1">
+     <Color Value="ff000000"/>
+     <Color Value="ffffffff"/>
+    </Colors>
+    <Width Value="1"/>
+    <Dynamics/>
+   </Pen>
+  </Box>
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <XPos Value="350"/>
+  <YPos Value="340"/>
+  <Width Value="150"/>
+  <Height Value="75"/>
+  <Rotation Value="0"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Decimals Value="0"/>
+  <Font Size="12" Italic="false" VerticalAlignment="center" Family="Arial" Underline="false" Color="ff000000" Bold="false" Overstrike="false" HorizontalAlignment="center">
+   <Dynamics/>
+  </Font>
+  <Lines/>
+  <Y-Axises/>
+ </LineChart>
+ <LineChart2 Src="default">
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <XPos Value="250"/>
+  <YPos Value="150"/>
+  <Width Value="300"/>
+  <Height Value="200"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Font Size="12" Italic="false" VerticalAlignment="center" Family="Arial" Underline="false" Color="ff000000" Bold="false" Overstrike="false" HorizontalAlignment="center">
+   <Dynamics/>
+  </Font>
+  <Layouts>
+   <Layout Value="{&#xa;    &quot;BackgroundColor&quot;: 4294967295,&#xa;    &quot;Pen&quot;: 4278190080,&#xa;    &quot;XAxis&quot;: {&#xa;        &quot;__XAXIS__&quot;: {&#xa;            &quot;AxisPosition&quot;: 1,&#xa;            &quot;Decimals&quot;: 0,&#xa;            &quot;Dynamics&quot;: {&#xa;                &quot;Value&quot;: &quot;&lt;!DOCTYPE Dynamics>\n&lt;Dynamics/>\n&quot;&#xa;            },&#xa;            &quot;Label&quot;: &quot;&quot;,&#xa;            &quot;Max&quot;: 1,&#xa;            &quot;Min&quot;: 0,&#xa;            &quot;Unit&quot;: &quot;&quot;,&#xa;            &quot;autoMax&quot;: true,&#xa;            &quot;autoMin&quot;: true&#xa;        }&#xa;    }&#xa;}&#xa;" Name="default"/>
+  </Layouts>
+ </LineChart2>
+ <Measure RoundedCorners="true">
+  <Box Role="background" Roundness="25">
+   <TabIndex Value="0"/>
+   <SizeModifiers Value="0"/>
+   <Dynamics/>
+   <Properties/>
+   <EventListeners/>
+   <Brush Type="solid">
+    <Colors Count="1">
+     <Color Value="ffd4d0c8"/>
+    </Colors>
+    <Dynamics/>
+   </Brush>
+   <Pen Type="solid">
+    <Style Value="solid"/>
+    <Colors Count="1">
+     <Color Value="ff000000"/>
+     <Color Value="ffffffff"/>
+    </Colors>
+    <Width Value="2"/>
+    <Dynamics/>
+   </Pen>
+  </Box>
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <XPos Value="100"/>
+  <YPos Value="100"/>
+  <Width Value="75"/>
+  <Height Value="75"/>
+  <Rotation Value="0"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Hands/>
+  <Scale NormalColor="ffffffff">
+   <Min Value="0"/>
+   <Max Value="100"/>
+   <LowerLimit Value="10" Color="ff00ff00"/>
+   <UpperLimit Value="90" Color="ffff0000"/>
+   <StartAngle Value="-90"/>
+   <EndAngle Value="90"/>
+   <Ticks Interval="0"/>
+   <Width Value="10"/>
+   <BorderWidth Value="1"/>
+   <CCW Value="false"/>
+   <CenterDotWidth Value="5"/>
+   <Dynamics/>
+  </Scale>
+ </Measure>
+ <Trend Span="30000" YAxisUnit="" SampleRate="50" BackColor="fff0f0f0" UnitConvRule="">
+  <Origo X="left" Y="top"/>
+  <SettingsButton Height="24" Value="true" Width="24" X="right" Y="bottom"/>
+  <TabIndex Value="0"/>
+  <Min Value="0"/>
+  <Max Value="300"/>
+  <XPos Value="10"/>
+  <YPos Value="10"/>
+  <Width Value="200"/>
+  <Height Value="150"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Font Size="12" Italic="false" VerticalAlignment="center" Family="Arial" Underline="false" Color="ff000000" Bold="false" Overstrike="false" HorizontalAlignment="center">
+   <Dynamics/>
+  </Font>
+  <Graphs/>
+  <Ruler AxisArrows="false">
+   <Decimals Value="0"/>
+  </Ruler>
+ </Trend>
+ <EventList Span="4" ListFile="EventList.dat" Dynamic="true">
+  <Origo X="left" Y="top"/>
+  <BorderWidth Value="0"/>
+  <TabIndex Value="0"/>
+  <XPos Value="10"/>
+  <YPos Value="10"/>
+  <Width Value="200"/>
+  <Height Value="150"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Font Size="12" Italic="false" VerticalAlignment="center" Family="Arial" Underline="false" Color="ff000000" Bold="false" Overstrike="false" HorizontalAlignment="left">
+   <Dynamics/>
+  </Font>
+  <SortOrder>
+   <Sort Sort="asc" Column="time"/>
+  </SortOrder>
+ </EventList>
+ <EventList2 SortOrder="Ascending" MaxCount="0" ShowHeader="true" SortColumn="Time" ShowSettingsButton="false" Dynamic="true">
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <XPos Value="10"/>
+  <YPos Value="10"/>
+  <Width Value="200"/>
+  <Height Value="150"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Font Size="12" Italic="false" VerticalAlignment="center" Family="Arial" Underline="false" Color="ff000000" Bold="false" Overstrike="false" HorizontalAlignment="left">
+   <Dynamics/>
+  </Font>
+  <time minute="5" day="0" hour="0" second="0"/>
+  <Columns>
+   <Column Name="Group"/>
+   <Column Name="Time"/>
+   <Column Name="Event"/>
+  </Columns>
+  <Filter/>
+ </EventList2>
+ <AlarmList BlockMode="false">
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <SettingsButton Value="false"/>
+  <XPos Value="20"/>
+  <YPos Value="150"/>
+  <Width Value="225"/>
+  <Height Value="80"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Font Size="12" Italic="false" VerticalAlignment="center" Family="Arial" Underline="false" Color="ff000000" Bold="false" Overstrike="false" HorizontalAlignment="left">
+   <Dynamics/>
+  </Font>
+  <SortOrder>
+   <Sort Sort="asc" Column="severity"/>
+  </SortOrder>
+  <AlarmGroups/>
+ </AlarmList>
+ <History Span="180000">
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <XPos Value="250"/>
+  <YPos Value="150"/>
+  <Width Value="300"/>
+  <Height Value="200"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Font Size="12" Italic="false" VerticalAlignment="center" Family="Arial" Underline="false" Color="ff000000" Bold="false" Overstrike="false" HorizontalAlignment="center">
+   <Dynamics/>
+  </Font>
+  <SettingsButton Value="true"/>
+  <Graphs/>
+  <Y-Axises/>
+  <CurveBackColor Value="ffffffff"/>
+  <TrackInterval Value="0"/>
+ </History>
+ <History2 Src="default">
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <XPos Value="250"/>
+  <YPos Value="150"/>
+  <Width Value="300"/>
+  <Height Value="200"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Font Size="12" Italic="false" VerticalAlignment="center" Family="Arial" Underline="false" Color="ff000000" Bold="false" Overstrike="false" HorizontalAlignment="center">
+   <Dynamics/>
+  </Font>
+  <Layouts>
+   <Layout Value="{&#xa;    &quot;AxisPosition&quot;: 2,&#xa;    &quot;BackgroundColor&quot;: 4294967295,&#xa;    &quot;Brush&quot;: 4294967295,&#xa;    &quot;Controls&quot;: 0,&#xa;    &quot;Dynamics&quot;: {&#xa;        &quot;Value&quot;: &quot;&lt;!DOCTYPE Dynamics>\n&lt;Dynamics>\n &lt;DynamicProperty Name=\&quot;TrackInterval\&quot;/>\n&lt;/Dynamics>\n&quot;&#xa;    },&#xa;    &quot;Pen&quot;: 4278190080,&#xa;    &quot;RulerVariable&quot;: &quot;&quot;,&#xa;    &quot;ShowLegend&quot;: false,&#xa;    &quot;ShowRuler&quot;: true,&#xa;    &quot;Span&quot;: 180,&#xa;    &quot;TrackInterval&quot;: 0,&#xa;    &quot;Variable&quot;: &quot;&quot;&#xa;}&#xa;" Name="default"/>
+  </Layouts>
+ </History2>
+ <Manual Src="">
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <XPos Value="25"/>
+  <YPos Value="345"/>
+  <Width Value="200"/>
+  <Height Value="65"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+ </Manual>
+ <TabDialog>
+  <Origo X="left" Y="top"/>
+  <Tabs>
+   <Tab Caption="Tab1">
+    <Attributes/>
+   </Tab>
+   <Tab Caption="Tab2">
+    <Attributes/>
+   </Tab>
+  </Tabs>
+  <TabIndex Value="0"/>
+  <XPos Value="100"/>
+  <YPos Value="100"/>
+  <Width Value="200"/>
+  <Height Value="165"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Font Size="12" Italic="false" VerticalAlignment="center" Family="Arial" Underline="false" Color="ff000000" Bold="false" Overstrike="false" HorizontalAlignment="center">
+   <Dynamics/>
+  </Font>
+ </TabDialog>
+ <PictureSelector BorderStyle="Flat" CachePictures="true">
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <BorderColor Value="0"/>
+  <XPos Value="10"/>
+  <YPos Value="10"/>
+  <Width Value="200"/>
+  <Height Value="150"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Pics Value="0"/>
+ </PictureSelector>
+ <Button Type="oneshot" AutoSave="true">
+  <Origo X="left" Y="top"/>
+  <Text Value="Button"/>
+  <TabIndex Value="0"/>
+  <XPos Value="135"/>
+  <YPos Value="115"/>
+  <Width Value="50"/>
+  <Height Value="20"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Font Size="12" Italic="false" VerticalAlignment="center" Family="Arial" Underline="false" Color="ff000000" Bold="false" Overstrike="false" HorizontalAlignment="center">
+   <Dynamics/>
+  </Font>
+  <State/>
+ </Button>
+ <CustomButton Stretch="false" Type="oneshot" Marked="false" AutoSave="true">
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <XPos Value="135"/>
+  <YPos Value="115"/>
+  <Width Value="50"/>
+  <Height Value="20"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <State/>
+  <ButtonUp TextAlignment="68" HorizontalMargin="0" VerticalMargin="0" Image="" Text="">
+   <Font Size="12" Italic="false" VerticalAlignment="center" Family="Arial" Underline="false" Color="ff000000" Bold="false" Overstrike="false" HorizontalAlignment="center">
+    <Dynamics/>
+   </Font>
+  </ButtonUp>
+ </CustomButton>
+ <RadioButton Variable="" Text="RadioButton" AutoSave="true">
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <XPos Value="320"/>
+  <YPos Value="115"/>
+  <Width Value="100"/>
+  <Height Value="20"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Font Size="12" Italic="false" VerticalAlignment="center" Family="Arial" Underline="false" Color="ff000000" Bold="false" Overstrike="false" HorizontalAlignment="left">
+   <Dynamics/>
+  </Font>
+ </RadioButton>
+ <CheckBox Variable="" Text="CheckBox" AutoSave="true">
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <XPos Value="320"/>
+  <YPos Value="115"/>
+  <Width Value="80"/>
+  <Height Value="20"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Font Size="12" Italic="false" VerticalAlignment="center" Family="Arial" Underline="false" Color="ff000000" Bold="false" Overstrike="false" HorizontalAlignment="left">
+   <Dynamics/>
+  </Font>
+ </CheckBox>
+ <TextBox Decimals="2" DisplayUnit="false" Type="double" AutoSave="true" UnitConvRule="">
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <Text/>
+  <XPos Value="115"/>
+  <YPos Value="20"/>
+  <Width Value="80"/>
+  <Height Value="20"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Font Size="12" Italic="false" VerticalAlignment="center" Family="Arial" Underline="false" Color="ff000000" Bold="false" Overstrike="false" HorizontalAlignment="center">
+   <Dynamics/>
+  </Font>
+  <Min Value="-INF"/>
+  <Max Value="INF"/>
+ </TextBox>
+ <TextEdit ReadOnly="false" AutoSave="true">
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <Text/>
+  <XPos Value="115"/>
+  <YPos Value="20"/>
+  <Width Value="150"/>
+  <Height Value="100"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Font Size="12" Italic="false" VerticalAlignment="top" Family="Arial" Underline="false" Color="ff000000" Bold="false" Overstrike="false" HorizontalAlignment="left">
+   <Dynamics/>
+  </Font>
+ </TextEdit>
+ <DateTimeEdit AutoSave="true">
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <Text/>
+  <ShowButton Value="true"/>
+  <XPos Value="115"/>
+  <YPos Value="20"/>
+  <Width Value="80"/>
+  <Height Value="20"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Font Size="12" Italic="false" VerticalAlignment="center" Family="Arial" Underline="false" Color="ff000000" Bold="false" Overstrike="false" HorizontalAlignment="center">
+   <Dynamics/>
+  </Font>
+  <Format>
+   <date Format="yyyy-MM-dd"/>
+   <time Format="hh:mm:ss"/>
+  </Format>
+ </DateTimeEdit>
+ <ComboBox Variable="" SelectedValueVariable="" Editable="false" AutoSave="true">
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <XPos Value="345"/>
+  <YPos Value="155"/>
+  <Width Value="75"/>
+  <Height Value="20"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Font Size="12" Italic="false" VerticalAlignment="center" Family="Arial" Underline="false" Color="ff000000" Bold="false" Overstrike="false" HorizontalAlignment="left">
+   <Dynamics/>
+  </Font>
+  <ValueList/>
+ </ComboBox>
+ <SpinBox ShowButton="true" DisplayUnit="false" MinMax="" InputMask="" AutoSave="true">
+  <Origo X="left" Y="top"/>
+  <Value Value="0"/>
+  <TabIndex Value="0"/>
+  <XPos Value="220"/>
+  <YPos Value="115"/>
+  <Width Value="50"/>
+  <Height Value="20"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Font Size="12" Italic="false" VerticalAlignment="center" Family="Arial" Underline="false" Color="ff000000" Bold="false" Overstrike="false" HorizontalAlignment="left">
+   <Dynamics/>
+  </Font>
+  <Min Value="0"/>
+  <Max Value="100"/>
+ </SpinBox>
+ <CustomSpinBox Stretch="false" Decimals="0" AutoRepeat="true" Spacing="0" AutoSave="true">
+  <Origo X="left" Y="top"/>
+  <Value Value="0"/>
+  <TabIndex Value="0"/>
+  <XPos Value="220"/>
+  <YPos Value="115"/>
+  <Width Value="50"/>
+  <Height Value="20"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Font Size="12" Italic="false" VerticalAlignment="center" Family="Arial" Underline="false" Color="ff000000" Bold="false" Overstrike="false" HorizontalAlignment="center">
+   <Dynamics/>
+  </Font>
+  <Min Value="0"/>
+  <Max Value="100"/>
+ </CustomSpinBox>
+ <Dial TickInterval="1" TickMarks="false" Type="double" Orientation="clockwise" AutoSave="true">
+  <Origo X="left" Y="top"/>
+  <Value Value="0"/>
+  <TabIndex Value="0"/>
+  <Font Italic="false" Size="12" VerticalAlignment="Top" Underline="false" Family="Arial" Color="000000" Bold="false" Overstrike="false" HorizontalAlignment="Left">
+   <Dynamics/>
+  </Font>
+  <XPos Value="431"/>
+  <YPos Value="81"/>
+  <Width Value="50"/>
+  <Height Value="50"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Min Value="0"/>
+  <Max Value="100"/>
+ </Dial>
+ <Slider TickInterval="1.0" TickMarks="none" Type="integer" Orientation="horizontal" AutoSave="true">
+  <Origo X="left" Y="top"/>
+  <Value Value="0"/>
+  <TabIndex Value="0"/>
+  <XPos Value="320"/>
+  <YPos Value="115"/>
+  <Width Value="80"/>
+  <Height Value="20"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Min Value="0"/>
+  <Max Value="100"/>
+ </Slider>
+ <ObjectList AutoSave="true">
+  <Origo X="left" Y="top"/>
+  <Template Height="100" Width="150">
+   <Attributes>
+    <BackColor Value="ffffff"/>
+   </Attributes>
+  </Template>
+  <TabIndex Value="0"/>
+  <XPos Value="320"/>
+  <YPos Value="115"/>
+  <Width Value="175"/>
+  <Height Value="100"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Font Size="12" Italic="false" VerticalAlignment="center" Family="Arial" Underline="false" Color="ff000000" Bold="false" Overstrike="false" HorizontalAlignment="center">
+   <Dynamics/>
+  </Font>
+  <Headers Enabled="false"/>
+  <DataScript Value=""/>
+  <DataConnections/>
+  <SortOrder>
+   <Sort Sort="asc" Column="0"/>
+  </SortOrder>
+ </ObjectList>
+ <Table TabDirection="vertical" RowVariable="" NullValue="" Swap="false" DataVariable="" ColumnVariable="" AutoSave="true">
+  <Origo X="left" Y="top"/>
+  <BorderWidth Value="0"/>
+  <TabIndex Value="0"/>
+  <XPos Value="255"/>
+  <YPos Value="230"/>
+  <Width Value="175"/>
+  <Height Value="95"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Font Size="12" Italic="false" VerticalAlignment="center" Family="Arial" Underline="false" Color="ff000000" Bold="false" Overstrike="false" HorizontalAlignment="center">
+   <Dynamics/>
+  </Font>
+  <ColumnWidths/>
+  <Headers Show="false"/>
+  <Rows Show="false"/>
+ </Table>
+ <AXControl Src="" AutoSave="true">
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <XPos Value="320"/>
+  <YPos Value="115"/>
+  <Width Value="100"/>
+  <Height Value="100"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+ </AXControl>
+ <EthirisView>
+  <Settings Framerate="15"/>
+  <SettingsButton Height="24" Value="false" Width="24" X="right" Y="bottom"/>
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <XPos Value="320"/>
+  <YPos Value="115"/>
+  <Width Value="200"/>
+  <Height Value="200"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+ </EthirisView>
+ <DotNetObject Dll="" Args="" Ctor="" Preview="false" Type="">
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <XPos Value="20"/>
+  <YPos Value="20"/>
+  <Width Value="50"/>
+  <Height Value="50"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+ </DotNetObject>
+ <MapView>
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <XPos Value="20"/>
+  <YPos Value="20"/>
+  <Width Value="150"/>
+  <Height Value="150"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <MapObjects ZoomLevel="14" Longitude="13.216200000000001" Latitude="55.640569999999997"/>
+  <ZoomRanges/>
+ </MapView>
+ <TreeView IDProperty="[[Index]]" Header="false" userdata="" SkipProperties="false" Filter="false">
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <XPos Value="20"/>
+  <YPos Value="20"/>
+  <Width Value="150"/>
+  <Height Value="150"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Font Size="12" Italic="false" VerticalAlignment="top" Family="Arial" Underline="false" Color="ff000000" Bold="false" Overstrike="false" HorizontalAlignment="left">
+   <Dynamics/>
+  </Font>
+  <Columns>
+   <Column Visible="true" Icon="" Text="[[Name]]" Width="-1" Name="Name" VisiblePriv=""/>
+   <Column Visible="true" Icon="" Text="[[Value]]" Width="-1" Name="Value" VisiblePriv=""/>
+  </Columns>
+ </TreeView>
+ <ReportView TreeView="true" SettingsButton="true" FilterColumnWidth="50" FilterWidth="30">
+  <Origo X="left" Y="top"/>
+  <TabIndex Value="0"/>
+  <MapObjects/>
+  <XPos Value="20"/>
+  <YPos Value="20"/>
+  <Width Value="150"/>
+  <Height Value="150"/>
+  <Visible Value="true"/>
+  <Enabled Value="true"/>
+  <SizeModifiers Value="0"/>
+  <Dynamics/>
+  <Properties/>
+  <EventListeners/>
+  <Font Size="12" Italic="false" VerticalAlignment="top" Family="Arial" Underline="false" Color="ff000000" Bold="false" Overstrike="false" HorizontalAlignment="left">
+   <Dynamics/>
+  </Font>
+  <Filter Span="0" SortOrder="Ascending" MaxSize="0" Sort="0" File="PDF" Match=""/>
+ </ReportView>
+</ObjectsDefaults>
