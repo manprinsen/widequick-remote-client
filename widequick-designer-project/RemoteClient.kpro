@@ -1,0 +1,48 @@
+<?xml version='1.0'?>
+<Project UsePressAndHoldOnMultitouchScreens="false" ConfigurationFile="Default.krun" UserBackend="wqusers" SuppressConnectionError="true" StartPicture="Workviews/status.kvie" UseWQMonitor="true" MainMaximizable="false" Name="RemoteClient" WidgetMinimizeable="true" RaiseViewAppWide="true" XMLVersion="4" MainNoBorder="true" WidgetMaximizeable="true" MainMinimizable="false" ObjectsDefaultsFile="Toolbox.kdat">
+ <Toolbox Src="Toolbox.kdat"/>
+ <DataStore Src="DataStore.kdat"/>
+ <DataTypes Src="DataTypes.kdat"/>
+ <Drivers Src="Drivers.kdat"/>
+ <Loggers Src="Loggers.kdat"/>
+ <Schedules Src="Schedules.kdat"/>
+ <DatabaseConnections Src="DatabaseConnections.kdat"/>
+ <RemoteSystems Src="RemoteSystems.kdat"/>
+ <UnitSystems Src="UnitSystems.kdat"/>
+ <Languages Src="Languages.kdat"/>
+ <Users Src="Users.kdat"/>
+ <Privileges Src="Privileges.kdat"/>
+ <Library Src="Library.kdat"/>
+ <EthirisServers Src="EthirisServers.kdat"/>
+ <ScriptLibraries Src="ScriptLibraries.kdat"/>
+ <ResourceDataBase Src="ResourceDataBase.kdat"/>
+ <DataStreams Src="DataStreams.kdat"/>
+ <Mail Src="Mail.kdat"/>
+ <Reports Src="Reports.kdat"/>
+ <ScriptPlugins Src="ScriptPlugins.kdat"/>
+ <Themes Src="Themes.kdat"/>
+ <ProjectTree>
+  <DataStore/>
+  <DataTypes/>
+  <Scripts/>
+  <Workviews Src="Workviews">
+   <Workview Src="status.kvie" Name="status"/>
+   <Workview Src="config.kvie" Name="config"/>
+  </Workviews>
+  <Loggers/>
+  <Schedules/>
+  <DatabaseConnections/>
+  <RemoteSystems/>
+  <EthirisServers/>
+  <Languages/>
+  <Translations/>
+  <UsersPrivileges/>
+  <UnitSystems/>
+ </ProjectTree>
+ <Keyboards>
+  <KeyUnit Src="alphakeyboard.kdat" Name="Alpha keyboard"/>
+  <KeyUnit Src="numerickeyboard.kdat" Name="Numeric keyboard"/>
+  <KeyUnit Src="numerickeyboardtab.kdat" Name="Numeric keyboard (tab)"/>
+  <KeyUnit Src="qwertykeyboard.kdat" Name="Qwerty keyboard"/>
+ </Keyboards>
+</Project>
