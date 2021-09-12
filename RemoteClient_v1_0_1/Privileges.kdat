@@ -1,0 +1,4 @@
+<?xml version='1.0'?>
+<Privileges XMLVersion="4">
+ <Privilege Description="Enables users to edit users" Name="EditUsers" Default="Denied"/>
+</Privileges>

@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<DataStore XMLVersion="4">
+ <DigitalIns/>
+ <DigitalOuts/>
+ <AnalogIns/>
+ <AnalogOuts/>
+ <Booleans/>
+ <Integers/>
+ <Doubles/>
+ <Strings/>
+ <Alarms/>
+ <Arrays/>
+ <Structs/>
+ <Recordsets/>
+</DataStore>

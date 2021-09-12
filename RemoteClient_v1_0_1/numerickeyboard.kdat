@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<!--"$Date: 04-01-13 16:45 $ $Revision: 3 $"-->
+<Keyboard xmlns="urn:kentima.se:ASRi" Width="184" Height="228" BackColor="ece9d8" >
+
+	<!-- Defines the layout of the built in numerical keyboard -->
+
+<!-- Normalt -->
+	<!--       X -->
+	<!-- <- / * - -->
+	<!--  7 8 9 + -->
+	<!--  4 5 6   -->
+	<!--  1 2 3 < -->
+	<!--  0   .   -->
+
+ 	<Font Size="15" Family="Tahoma" />
+
+	<TextWindow X="2" Y="2" Width="133" Height="42" />
+	<SpecialKey Type="Close" X="137" Y="2" Width="44" Height="44" />
+
+
+	<StandardKey Character="7" X="2" Y="47" Width="45" Height="45" />
+	<StandardKey Character="8" X="47" Y="47" Width="45" Height="45" />
+	<StandardKey Character="9" X="92" Y="47" Width="45" Height="45" />
+<!--	<StandardKey Character="-" X="137" Y="47" Width="45" Height="45" /> -->
+	<SpecialKey Type="Delete" X="137" Y="47" Width="45" Height="45" />
+
+	<StandardKey Character="4" X="2" Y="92" Width="45" Height="45" />
+	<StandardKey Character="5" X="47" Y="92" Width="45" Height="45" />
+	<StandardKey Character="6" X="92" Y="92" Width="45" Height="45" />
+	<StandardKey Character="-" X="137" Y="92" Width="45" Height="45" />
+
+	<StandardKey Character="1" X="2" Y="137" Width="45" Height="45" />
+	<StandardKey Character="2" X="47" Y="137" Width="45" Height="45" />
+	<StandardKey Character="3" X="92" Y="137" Width="45" Height="45" />
+	<SpecialKey Type="Enter" X="137" Y="137" Width="45" Height="90" />
+
+	<StandardKey Character="0" X="2" Y="182" Width="90" Height="45" />
+	<StandardKey Character="." X="92" Y="182" Width="45" Height="45" />
+
+<!--	<SpecialKey Type="SpinUp" X="130" Y="60" Width="40" Height="60" /> -->
+<!--	<SpecialKey Type="SpinDown" X="130" Y="120" Width="40" Height="60" /> -->
+<!--	<SpecialKey Type="Prev" X="10" Y="220" Width="80" Height="40" /> -->
+<!--	<SpecialKey Type="Next" X="90" Y="220" Width="80" Height="40" /> -->
+<!--	<SpecialKey Type="Left" X="10" Y="260" Width="80" Height="40" /> -->
+<!--	<SpecialKey Type="Right" X="90" Y="260" Width="80" Height="40" /> -->
+</Keyboard>
