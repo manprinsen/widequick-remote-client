@@ -1,0 +1,4 @@
+<?xml version='1.0'?>
+<Library XMLVersion="4">
+ <Shelf Name="Default" Src="Default.klib"/>
+</Library>

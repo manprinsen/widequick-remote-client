@@ -1,0 +1,574 @@
+2021-04-28 22:40:02.564     18) CDataRemoteProxy::GetValueUpdate() - Failed to request WaitAck value update on 127.0.0.1:50000
+2021-04-28 22:40:05.576     19) CDataRemoteProxy::UpdateErrorCount() - Reconnect error 127.0.0.1:50000
+2021-04-28 22:41:14.669     20) CDataRemoteProxy::Resume() - Reconnect ok 127.0.0.1:50000  ErrorCount=23
+2021-04-28 22:41:23.083     22) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-28 22:41:23.083     23) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1(1).kvie' as a child view of the parent object
+2021-04-28 22:41:23.084     24) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1(2).kvie' as a child view of the parent object
+2021-04-28 22:42:22.691     28) CDataRemoteProxy::UpdateErrorCount() - Reconnect error 127.0.0.1:50000
+2021-04-28 22:44:39.236     29) CDataRemoteProxy::Resume() - Reconnect ok 127.0.0.1:50000  ErrorCount=46
+2021-04-28 22:44:41.888     31) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-28 22:44:41.889     32) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1(1).kvie' as a child view of the parent object
+2021-04-28 22:44:53.842     35) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-28 22:44:53.843     36) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1(1).kvie' as a child view of the parent object
+2021-04-28 22:45:57.162     39) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-28 22:45:57.162     40) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1(1).kvie' as a child view of the parent object
+2021-04-28 22:51:01.136     53) CDataRemoteProxy::GetVariableProperties() - Failed to request WaitAck value update on 127.0.0.1:50000
+2021-04-28 22:51:04.142     54) CDataRemoteProxy::UpdateErrorCount() - Reconnect error 127.0.0.1:50000
+2021-04-28 22:54:44.834     55) CDataRemoteProxy::Resume() - Reconnect ok 127.0.0.1:50000  ErrorCount=74
+2021-04-28 22:54:46.560     57) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-28 22:54:46.561     58) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1(1).kvie' as a child view of the parent object
+2021-04-28 22:54:46.561     59) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1(2).kvie' as a child view of the parent object
+2021-04-28 22:54:59.266     62) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-28 22:55:02.990     65) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-28 22:55:42.867     67) CDataRemoteProxy::UpdateErrorCount() - Reconnect error 127.0.0.1:50000
+2021-04-28 22:55:44.907     68) CDataRemoteProxy::Resume() - Reconnect ok 127.0.0.1:50000  ErrorCount=1
+2021-04-28 22:55:56.547     69) CDataRemoteProxy::GetVariableProperties() - Failed to request WaitAck value update on 127.0.0.1:50000
+2021-04-28 22:55:59.545     70) CDataRemoteProxy::UpdateErrorCount() - Reconnect error 127.0.0.1:50000
+2021-04-28 22:56:44.604     71) CDataRemoteProxy::Resume() - Reconnect ok 127.0.0.1:50000  ErrorCount=15
+2021-04-28 22:56:48.865     73) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-28 22:56:54.981     76) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-28 22:56:57.918     79) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-28 22:57:07.861     81) CDataRemoteProxy::UpdateErrorCount() - Reconnect error 127.0.0.1:50000
+2021-04-28 22:57:08.891     82) CDataRemoteProxy::Resume() - Reconnect ok 127.0.0.1:50000  ErrorCount=1
+2021-04-28 22:57:23.387     84) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-28 22:57:28.817     87) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-28 22:59:02.400     89) CDataRemoteProxy::UpdateErrorCount() - Reconnect error 127.0.0.1:50000
+2021-04-28 22:59:04.442     90) CDataRemoteProxy::Resume() - Reconnect ok 127.0.0.1:50000  ErrorCount=1
+2021-04-28 22:59:11.179     91) CDataRemoteProxy::UpdateErrorCount() - Reconnect error 127.0.0.1:50000
+2021-04-28 22:59:16.719     92) CDataRemoteProxy::Resume() - Reconnect ok 127.0.0.1:50000  ErrorCount=2
+2021-04-28 22:59:30.948     93) CDataRemoteProxy::UpdateErrorCount() - Reconnect error 127.0.0.1:50000
+2021-04-28 22:59:33.484     94) CDataRemoteProxy::Resume() - Reconnect ok 127.0.0.1:50000  ErrorCount=1
+2021-04-28 22:59:35.327     96) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-28 22:59:57.253     98) CDataRemoteProxy::UpdateErrorCount() - Reconnect error 127.0.0.1:50000
+2021-04-28 23:00:02.789     99) CDataRemoteProxy::Resume() - Reconnect ok 127.0.0.1:50000  ErrorCount=2
+2021-04-28 23:00:28.771    100) CDataRemoteProxy::UpdateErrorCount() - Reconnect error 127.0.0.1:50000
+2021-04-28 23:00:30.824    101) CDataRemoteProxy::Resume() - Reconnect ok 127.0.0.1:50000  ErrorCount=1
+2021-04-28 23:00:33.729    103) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-28 23:00:46.865    105) CDataRemoteProxy::UpdateErrorCount() - Reconnect error 127.0.0.1:50000
+2021-04-28 23:00:47.899    106) CDataRemoteProxy::Resume() - Reconnect ok 127.0.0.1:50000  ErrorCount=1
+2021-04-28 23:15:02.598    108) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-28 23:15:10.593    109) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-28 23:15:37.993      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-28 23:15:37.994      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-28 23:15:55.799      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-28 23:15:56.547      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-28 23:16:27.674      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-28 23:16:27.676      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-28 23:16:37.188      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-28 23:16:38.238      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-28 23:17:26.522      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-28 23:17:26.524      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-28 23:17:38.467      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-28 23:17:39.069      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-28 23:23:14.600      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-28 23:23:14.601      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-28 23:23:25.130      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-28 23:23:26.154      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-28 23:27:14.906      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-28 23:27:14.907      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-28 23:27:24.139      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-28 23:27:25.461      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-28 23:27:53.552      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-28 23:27:53.553      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-28 23:29:03.538      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-28 23:29:31.789      7) CDataRemoteProxy::GetValueUpdate() - Failed to request WaitAck value update on 127.0.0.1:50000
+2021-04-28 23:29:33.940      8) CView::NewRemotePicture() - Failed to connect to remote system wqruntime
+2021-04-28 23:29:34.796      9) CDataRemoteProxy::UpdateErrorCount() - Reconnect error 127.0.0.1:50000
+2021-04-28 23:30:23.142     12) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-28 23:30:23.885     13) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-28 23:31:38.874      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-28 23:31:38.875      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-28 23:31:51.046      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-28 23:31:52.450      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-28 23:33:06.638      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-28 23:33:06.639      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-28 23:33:12.955      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-28 23:33:15.194      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-28 23:36:49.636      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-28 23:36:49.636      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-28 23:37:04.742      6) CDataRemoteProxy::UpdateErrorCount() - Reconnect error 127.0.0.1:50000
+2021-04-28 23:37:04.743      7) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-28 23:37:05.357      8) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-29 08:09:21.511      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-29 08:09:21.521      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-29 08:10:06.163      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 08:10:08.861      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-29 08:10:17.695      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-29 08:10:17.696      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.0.6 $ --- $CompileDate: Mar 22 2021  09:20:33 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-29 08:10:37.774      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 08:10:38.838      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-29 08:10:50.590      0) WideQuick Runtime starting ===== $CompileDate: Mar  5 2020  13:41:32 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.9.5 $
+2021-04-29 08:10:50.591      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 11.2.0.7 $ --- $CompileDate: Apr 20 2020  13:29:47 $ --- $CompileType: RELEASE $ --- $QtV: 5.9.5 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-29 08:10:55.218      4) CProxyManager::Connect() - Error setup type:4 - connect=Error   127.0.0.1_50000 - port=50000
+2021-04-29 08:10:55.222      5) CView::NewRemotePicture() - Failed to connect to remote system wqruntime
+2021-04-29 08:12:24.652      6) CProxyManager::Connect() - Error setup type:4 - connect=Error   127.0.0.1_50000 - port=50000
+2021-04-29 08:12:24.658      7) CView::NewRemotePicture() - Failed to connect to remote system wqruntime
+2021-04-29 08:12:27.760      8) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-29 08:12:32.183      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-29 08:12:32.184      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-29 08:15:27.592      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 08:18:50.483      8) CDataRemoteProxy::UpdateErrorCount() - Reconnect error 127.0.0.1:50000
+2021-04-29 08:19:18.576      9) CDataRemoteProxy::Resume() - Reconnect ok 127.0.0.1:50000  ErrorCount=10
+2021-04-29 08:21:04.563     11) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 08:21:04.945     12) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-29 08:27:05.172      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-29 08:27:05.173      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-29 08:28:28.210      5) CDataRemoteProxy::UpdateErrorCount() - Reconnect error 127.0.0.1:50000
+2021-04-29 08:28:36.278      6) CDataRemoteProxy::Resume() - Reconnect ok 127.0.0.1:50000  ErrorCount=3
+2021-04-29 08:48:37.702     15) CDataRemoteProxy::UpdateErrorCount() - Reconnect error 127.0.0.1:50000
+2021-04-29 08:59:40.783     17) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 08:59:40.784     18) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1(1).kvie' as a child view of the parent object
+2021-04-29 08:59:50.346     19) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-29 16:46:42.152      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-29 16:46:42.153      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-29 17:04:09.578      5) CDataRemoteProxy::GetVariableProperties() - Failed to request WaitAck value update on 127.0.0.1:50000
+2021-04-29 17:04:12.580      6) CDataRemoteProxy::UpdateErrorCount() - Reconnect error 127.0.0.1:50000
+2021-04-29 17:20:51.764      8) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 17:22:50.107     10) CDataRemoteProxy::GetVariableProperties() - Failed to request WaitAck value update on 127.0.0.1:50000
+2021-04-29 17:22:53.112     11) CDataRemoteProxy::UpdateErrorCount() - Reconnect error 127.0.0.1:50000
+2021-04-29 17:23:10.999     13) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 17:24:09.285     16) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 17:24:10.641     17) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-29 17:24:15.602      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-29 17:24:15.603      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-29 17:25:06.598      5) CDataRemoteProxy::GetValueUpdate() - Failed to request WaitAck value update on 127.0.0.1:50000
+2021-04-29 17:25:08.811      7) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 17:25:18.722     10) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 17:26:05.114     13) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 17:26:13.298     15) CDataRemoteProxy::GetVariableProperties() - Failed to request WaitAck value update on 127.0.0.1:50000
+2021-04-29 17:26:15.440     17) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 17:31:00.740     39) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 17:31:00.741     40) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1(1).kvie' as a child view of the parent object
+2021-04-29 17:31:00.742     41) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1(2).kvie' as a child view of the parent object
+2021-04-29 17:37:40.924     46) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 17:37:40.924     47) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/pop.kvie' as a child view of the parent object
+2021-04-29 17:39:29.406     50) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 17:40:02.335     53) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 17:40:39.188     56) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 17:42:11.431     59) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 17:43:19.519     62) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 17:44:08.532     65) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 17:45:41.441     68) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 17:45:51.622     70) CDataRemoteProxy::GetVariableProperties() - Failed to request WaitAck value update on 127.0.0.1:50000
+2021-04-29 17:45:54.626     71) CDataRemoteProxy::UpdateErrorCount() - Reconnect error 127.0.0.1:50000
+2021-04-29 17:46:09.610     73) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 17:46:10.776     74) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-29 17:46:20.866      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-29 17:46:20.866      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-29 17:46:31.702      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 17:46:52.062     11) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 17:46:52.063     12) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/pop.kvie' as a child view of the parent object
+2021-04-29 17:59:16.954     14) CDataRemoteProxy::UpdateErrorCount() - Reconnect error 127.0.0.1:50000
+2021-04-29 18:03:50.715     16) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 18:05:09.102     18) CDataRemoteProxy::UpdateErrorCount() - Reconnect error 127.0.0.1:50000
+2021-04-29 18:07:45.648     20) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 18:08:06.981     22) CDataRemoteProxy::GetVariableProperties() - Failed to request WaitAck value update on 127.0.0.1:50000
+2021-04-29 18:08:08.541     24) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 18:17:41.966     27) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 18:17:56.328     29) CDataRemoteProxy::GetVariableProperties() - Failed to request WaitAck value update on 127.0.0.1:50000
+2021-04-29 18:17:59.331     30) CDataRemoteProxy::UpdateErrorCount() - Reconnect error 127.0.0.1:50000
+2021-04-29 18:20:22.408     31) CDataRemoteProxy::Resume() - Reconnect ok 127.0.0.1:50000  ErrorCount=48
+2021-04-29 18:20:32.515     32) CDataRemoteProxy::GetVariableProperties() - Failed to request WaitAck value update on 127.0.0.1:50000
+2021-04-29 18:20:35.518     33) CDataRemoteProxy::UpdateErrorCount() - Reconnect error 127.0.0.1:50000
+2021-04-29 18:21:20.084     34) CDataRemoteProxy::Resume() - Reconnect ok 127.0.0.1:50000  ErrorCount=15
+2021-04-29 18:21:27.322     36) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 18:21:48.017     38) CDataRemoteProxy::UpdateErrorCount() - Reconnect error 127.0.0.1:50000
+2021-04-29 18:22:21.220     40) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-29 18:26:55.847     41) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 13:07:05.838      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 13:07:05.839      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 13:08:05.433      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 13:08:05.434      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 13:08:11.756      4) CDataRemoteProxy::ConnectSocket() - License not granted.
+2021-04-30 13:08:11.758      5) CDataRemoteProxy::getConfValue() - Failed to initiate command.
+2021-04-30 13:08:11.758      6) CDataRemoteProxy::Synchronize() - Failed to get themes from server.
+2021-04-30 13:08:11.758      7) CDataRemoteProxy::GetRemoteDataTypes() - Failed to request DataTypes
+2021-04-30 13:08:11.759      8) CProxyManager::Connect() - Error setup type:3 - connect=Error   127.0.0.1_50000 - port=50000
+2021-04-30 13:08:11.761      9) CView::NewRemotePicture() - Failed to connect to remote system wqruntime
+2021-04-30 13:08:12.763     10) CDataRemoteProxy::ConnectSocket() - License not granted.
+2021-04-30 13:08:17.992     11) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 13:08:49.026      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 13:08:49.606      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 13:08:55.319      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 13:08:55.320      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 13:09:14.429      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 13:11:53.245      9) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 13:12:38.459     12) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 13:13:00.364     15) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 13:13:34.891     18) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 13:13:36.617     19) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 13:15:42.186      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 13:15:42.187      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 13:16:17.723      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 13:18:40.334      9) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 13:35:37.870     11) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 13:35:40.406      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 13:35:40.407      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 13:37:16.281      4) CDataRemoteProxy::GetVariableProperties() - Failed to request WaitAck value update on 127.0.0.1:50000
+2021-04-30 13:37:16.967      5) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 13:54:10.802      9) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 13:54:14.179      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 13:54:14.180      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 13:55:23.453      4) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 13:55:26.953      5) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 13:56:09.381      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 13:56:09.382      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 13:56:21.295      4) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 13:56:22.955      5) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 14:02:14.002      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 14:02:14.003      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 14:02:25.365      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 14:02:52.393      9) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 14:03:15.614     11) CDataRemoteProxy::UpdateErrorCount() - Reconnect error 100.0.0.161:50000
+2021-04-30 14:04:36.682     12) CDataRemoteProxy::Resume() - Reconnect ok 100.0.0.161:50000  ErrorCount=27
+2021-04-30 14:04:39.440     14) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 14:04:49.131     17) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 14:05:59.499     19) CDataRemoteProxy::GetVariableProperties() - Failed to request WaitAck value update on 100.0.0.161:50000
+2021-04-30 14:06:00.226     21) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 14:06:17.550     24) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 14:06:46.863     26) CDataRemoteProxy::UpdateErrorCount() - Reconnect error 100.0.0.161:50000
+2021-04-30 14:06:47.906     27) CDataRemoteProxy::Resume() - Reconnect ok 100.0.0.161:50000  ErrorCount=1
+2021-04-30 14:06:57.125     29) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 14:07:35.615     32) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 14:11:52.327     35) CDataRemoteProxy::UpdateErrorCount() - Reconnect error 100.0.0.161:50000
+2021-04-30 14:13:11.473     36) CDataRemoteProxy::Resume() - Reconnect ok 100.0.0.161:50000  ErrorCount=27
+2021-04-30 14:13:15.363     37) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 14:13:17.079     38) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 14:13:19.576      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 14:13:19.577      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 14:13:37.400      4) CDataRemoteProxy::GetValueUpdate() - Failed to request WaitAck value update on 100.0.0.161:50000
+2021-04-30 14:13:40.392      5) CDataRemoteProxy::UpdateErrorCount() - Reconnect error 100.0.0.161:50000
+2021-04-30 14:13:55.438      6) CDataRemoteProxy::Resume() - Reconnect ok 100.0.0.161:50000  ErrorCount=5
+2021-04-30 14:14:25.928      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 14:14:25.929      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 14:14:54.364      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 14:14:54.365      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 14:15:18.487      4) CDataRemoteProxy::GetVariableProperties() - Failed to request WaitAck value update on 100.0.0.161:50000
+2021-04-30 14:15:19.089      5) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 14:15:20.981      6) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 14:15:59.794      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 14:15:59.795      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 14:16:21.092      4) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 14:16:22.381      5) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 14:16:39.661      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 14:16:39.662      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 14:16:54.443      4) CDataRemoteProxy::GetVariableProperties() - Failed to request WaitAck value update on 100.0.0.161:50000
+2021-04-30 14:16:56.185      5) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 14:16:57.239      6) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 14:23:57.663      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 14:23:57.664      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 14:24:10.130      4) CDataRemoteProxy::ConnectSocket() - License not granted.
+2021-04-30 14:24:10.131      5) CDataRemoteProxy::getConfValue() - Failed to initiate command.
+2021-04-30 14:24:10.131      6) CDataRemoteProxy::Synchronize() - Failed to get themes from server.
+2021-04-30 14:24:10.131      7) CDataRemoteProxy::GetRemoteDataTypes() - Failed to request DataTypes
+2021-04-30 14:24:10.132      8) CProxyManager::Connect() - Error setup type:3 - connect=Error   100.0.0.161_50000 - port=50000
+2021-04-30 14:24:10.133      9) CView::NewRemotePicture() - Failed to connect to remote system wqruntime
+2021-04-30 14:24:11.160     10) CDataRemoteProxy::ConnectSocket() - License not granted.
+2021-04-30 14:24:13.951     13) CDataRemoteProxy::getConfValue() - Failed to initiate command.
+2021-04-30 14:24:13.951     14) CDataRemoteProxy::Synchronize() - Failed to get themes from server.
+2021-04-30 14:24:13.952     15) CDataRemoteProxy::GetRemoteDataTypes() - Failed to request DataTypes
+2021-04-30 14:24:13.952     16) CProxyManager::Connect() - Error setup type:3 - connect=Error   100.0.0.161_50000 - port=50000
+2021-04-30 14:24:13.953     17) CView::NewRemotePicture() - Failed to connect to remote system wqruntime
+2021-04-30 14:24:14.971     18) CDataRemoteProxy::ConnectSocket() - License not granted.
+2021-04-30 14:24:33.318     19) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 14:24:36.524      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 14:24:36.524      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 14:24:39.845      4) CDataRemoteProxy::ConnectSocket() - License not granted.
+2021-04-30 14:24:39.845      5) CDataRemoteProxy::getConfValue() - Failed to initiate command.
+2021-04-30 14:24:39.846      6) CDataRemoteProxy::Synchronize() - Failed to get themes from server.
+2021-04-30 14:24:39.846      7) CDataRemoteProxy::GetRemoteDataTypes() - Failed to request DataTypes
+2021-04-30 14:24:39.846      8) CProxyManager::Connect() - Error setup type:3 - connect=Error   127.0.0.1_50000 - port=50000
+2021-04-30 14:24:39.848      9) CView::NewRemotePicture() - Failed to connect to remote system wqruntime
+2021-04-30 14:24:40.894     10) CDataRemoteProxy::ConnectSocket() - License not granted.
+2021-04-30 14:25:06.619     29) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 14:25:44.677      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 14:25:44.678      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 14:25:59.176      4) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 14:26:02.247      5) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 14:26:22.126      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 14:26:22.127      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 14:26:31.421      4) CDataRemoteProxy::GetVariableProperties() - Failed to request WaitAck value update on 127.0.0.1:50000
+2021-04-30 14:26:31.969      5) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 14:27:32.783      6) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 14:27:39.946      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 14:27:39.947      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 14:27:49.958      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 14:27:57.422      9) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 14:28:00.539     10) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 14:28:16.004      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 14:28:16.005      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 14:28:53.330      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 14:29:05.876      9) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 14:29:23.621     10) CDataRemoteProxy::ConnectSocket() - License not granted.
+2021-04-30 14:29:23.622     11) CDataRemoteProxy::getConfValue() - Failed to initiate command.
+2021-04-30 14:29:23.622     12) CDataRemoteProxy::Synchronize() - Failed to get themes from server.
+2021-04-30 14:29:23.622     13) CDataRemoteProxy::GetRemoteDataTypes() - Failed to request DataTypes
+2021-04-30 14:29:23.622     14) CProxyManager::Connect() - Error setup type:3 - connect=Error   127.0.0.1_50000 - port=50000
+2021-04-30 14:29:23.624     15) CView::NewRemotePicture() - Failed to connect to remote system wqruntime
+2021-04-30 14:29:24.642     16) CDataRemoteProxy::ConnectSocket() - License not granted.
+2021-04-30 14:30:31.467     17) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 14:53:22.932      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 14:53:22.933      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 14:53:36.713      4) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/remote-page.kvie' as a child view of the parent object
+2021-04-30 14:53:36.718      5) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 14:53:37.503      6) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 14:54:48.441      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  16:00:45 $ --- $Revision: 74 $ --- $Date: 2019-03-22 09:14:18 +0100 (fre, 22 mar 2019) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 14:54:48.442      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 1 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 14:54:49.842      4) Workviews/status.kvie: Cannot load workview 'Workviews/status.kvie'. Recursion detected.
+2021-04-30 14:54:53.482      5) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/status.kvie' as a child view of the parent object
+2021-04-30 14:54:54.041      6) WideQuick Runtime shutdown (return code: 0) =============================================
+2021-04-30 14:55:02.808      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  16:00:45 $ --- $Revision: 74 $ --- $Date: 2019-03-22 09:14:18 +0100 (fre, 22 mar 2019) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 14:55:02.810      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 1 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 14:55:04.141      4) Workviews/status.kvie: Cannot load workview 'Workviews/status.kvie'. Recursion detected.
+2021-04-30 14:55:06.397      5) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/status.kvie' as a child view of the parent object
+2021-04-30 14:55:07.374      6) WideQuick Runtime shutdown (return code: 0) =============================================
+2021-04-30 14:55:17.111      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  16:00:45 $ --- $Revision: 74 $ --- $Date: 2019-03-22 09:14:18 +0100 (fre, 22 mar 2019) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 14:55:17.112      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 1 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 14:55:22.013      4) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/status(1).kvie' as a child view of the parent object
+2021-04-30 14:55:22.670      5) WideQuick Runtime shutdown (return code: 0) =============================================
+2021-04-30 14:55:36.968      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  16:00:45 $ --- $Revision: 74 $ --- $Date: 2019-03-22 09:14:18 +0100 (fre, 22 mar 2019) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 14:55:36.968      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 1 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 14:56:07.136      4) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/status(1).kvie' as a child view of the parent object
+2021-04-30 14:56:08.060      5) WideQuick Runtime shutdown (return code: 0) =============================================
+2021-04-30 21:39:45.098      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 21:39:45.113      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 21:40:29.320      4) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 21:41:46.402      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 21:41:46.403      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 21:42:01.596      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 21:43:08.839     11) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 21:43:14.593     12) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 21:46:30.800      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 21:46:30.801      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 21:46:43.356      4) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 21:47:11.632      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 21:47:11.633      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 21:47:28.213      4) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 21:48:29.305      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 21:48:29.306      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 21:48:37.352      4) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 21:48:59.498      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 21:48:59.500      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 21:49:42.621      4) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 21:49:50.979      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 21:49:50.980      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 21:50:02.397      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 21:50:06.542      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 21:50:58.789      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 21:50:58.790      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 21:51:07.341      4) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 21:51:35.600      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 21:51:35.601      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 21:51:44.159      4) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 21:52:02.996      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 21:52:02.997      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 21:52:14.557      4) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 21:52:57.102      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 21:52:57.103      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 21:53:08.669      4) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 21:53:33.418      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 21:53:33.418      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 21:53:40.974      4) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 21:54:08.901      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 21:54:08.901      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 21:54:15.314      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 21:54:17.448      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 21:56:14.302      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 21:56:14.302      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 21:56:26.247      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 21:56:31.873      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 21:57:37.184      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 21:57:37.185      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 21:57:47.498      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 21:57:49.752      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 21:58:13.839      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 21:58:13.840      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 21:58:21.789      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 21:58:23.394      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 21:59:33.004      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 21:59:33.005      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 21:59:46.446      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 21:59:47.563      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:04:21.406      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:04:21.407      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:04:25.943      5) Workviews/remote-page.kvie: Too many instances of workview 'Workviews/remote-page.kvie': 2 instances
+2021-04-30 22:04:39.023     14) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:04:42.485     16) Workviews/remote-page.kvie: Too many instances of workview 'Workviews/remote-page.kvie': 2 instances
+2021-04-30 22:04:43.988     18) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:04:46.485     20) Workviews/remote-page.kvie: Too many instances of workview 'Workviews/remote-page.kvie': 2 instances
+2021-04-30 22:05:22.988     40) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:05:24.075     41) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:05:31.298      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:05:31.299      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:05:45.912      8) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:06:15.421      9) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:07:00.276      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:07:00.277      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:07:07.588      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:08:01.927      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:08:06.833      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:08:06.834      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:08:15.380      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:08:47.911      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:09:14.081      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:09:14.082      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:09:18.197      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:09:31.655      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:09:57.652      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:09:57.653      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:10:02.162      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:10:34.746      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:11:45.538      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:11:45.539      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:11:50.487      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:12:11.121      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:19:19.363      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:19:19.365      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:19:35.421      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:19:35.964      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:20:57.376      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:20:57.377      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:21:02.889      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:21:28.972      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:22:41.945      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:22:41.945      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:22:53.807      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:23:07.258      9) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:23:09.519     10) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:23:37.742      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:23:37.743      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:23:44.713      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:23:48.317      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:25:53.853      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:25:53.854      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:29:09.128      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:29:09.129      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:29:24.291      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:32:47.303      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:32:47.303      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:32:54.977      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:33:01.855      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:34:16.844      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:34:16.845      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:34:23.722      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:34:23.914      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:35:41.961      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:35:41.962      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:35:49.155      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:35:52.523      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:36:09.031      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:36:09.032      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:36:22.845      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:36:26.616      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:36:33.016      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:36:33.016      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:36:42.854      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:36:43.657      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:37:05.499      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:37:05.500      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:37:09.424      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:37:10.030      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:37:22.052      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:37:23.283      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:37:23.770      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:38:47.176      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:38:47.177      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:38:53.263      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:38:53.789      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:40:03.547      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:40:03.548      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:40:13.804      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:40:15.186      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:41:00.883      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:41:00.884      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:41:11.994      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:41:12.477      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:42:29.611      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:42:29.612      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:42:44.750      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:42:45.171      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:43:36.393      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:43:36.394      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:43:42.851      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:43:43.433      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:46:21.881      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:46:21.882      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:46:31.327      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:46:32.437      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:47:16.596      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:47:16.597      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:47:33.104      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:47:34.226      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:49:05.096      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:49:05.097      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:49:13.637      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:49:14.719      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:50:01.439      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:50:01.440      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:50:06.467      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:50:07.068      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:56:20.797      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:56:20.798      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:56:26.936      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:56:27.357      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:56:36.177      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:56:36.178      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:56:44.796      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:56:45.732      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 22:57:53.320      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 22:57:53.320      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 22:58:01.834      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 22:58:02.994      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 23:04:26.881      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 23:04:26.883      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 23:04:34.385      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 23:05:10.116      9) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 23:05:11.508     10) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 23:18:52.370      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 23:18:52.371      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 23:19:04.655      5) Workviews/remote-page.kvie: Too many instances of workview 'Workviews/remote-page.kvie': 2 instances
+2021-04-30 23:19:10.083      7) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 23:19:19.481      8) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 23:20:44.125      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 23:20:44.126      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 23:21:06.294      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 23:21:26.334      9) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 23:21:29.758     10) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 23:28:17.848      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 23:28:17.849      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 23:28:25.924      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 23:28:51.259      9) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 23:29:17.569     12) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 23:30:29.516     15) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 23:30:53.236     16) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 23:31:00.134      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 23:31:00.135      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 23:31:35.351      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 23:32:57.904      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 23:32:59.790      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 23:32:59.791      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 23:33:53.898      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 23:33:54.565      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 23:33:56.217      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 23:33:56.218      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 23:34:13.568      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 23:34:14.295      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 23:34:41.438      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 23:34:41.439      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 23:34:53.888      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 23:34:59.046      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 23:35:48.364      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 23:35:48.366      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 23:36:21.350      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 23:36:27.493      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 23:36:29.784      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 23:36:29.786      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 23:41:54.318      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-04-30 23:41:58.290      7) WideQuick Remote shutdown (return code: 0) =============================================
+2021-04-30 23:42:03.414      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-04-30 23:42:03.415      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-04-30 23:45:45.559      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-05-01 08:02:33.009      0) WideQuick Runtime starting ===== $CompileDate: Feb  8 2021  15:59:41 $ --- $Revision: 1 $ --- $Date: 2008-09-29 09:26:05 +0200 (må, 29 sep 2008) $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $
+2021-05-01 08:02:33.022      2) ======== WideQuick Runtime Environment Starting == Level: SCADA - Premium - State: Licensed - ProdType: 3 == $WQREVersion: 12.0.1.4 $ --- $CompileDate: Apr 28 2021  13:48:05 $ --- $CompileType: RELEASE $ --- $QtV: 5.15.2 $ --- $KernelV: Microsoft Windows 7 $
+2021-05-01 08:02:59.685      6) CViewObject::NotifyDestroyed() - Failed to unregister view 'Workviews/mv/Workview1.kvie' as a child view of the parent object
+2021-05-01 08:03:08.272      7) WideQuick Remote shutdown (return code: 0) =============================================

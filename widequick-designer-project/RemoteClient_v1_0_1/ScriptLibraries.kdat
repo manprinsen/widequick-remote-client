@@ -1,0 +1,7 @@
+<?xml version='1.0'?>
+<ScriptLibraries XMLVersion="4">
+ <Script FileName="scWM_v1_0_1" RunBeforeMainView="true" RunOnRemoteClient="false"/>
+ <Script FileName="Library_v1_0_1" RunBeforeMainView="true" RunOnRemoteClient="true"/>
+ <Script FileName="scConfig_v1_0_1" RunBeforeMainView="false" RunOnRemoteClient="false"/>
+ <Script FileName="scRemote_v1_0_1" RunBeforeMainView="false" RunOnRemoteClient="false"/>
+</ScriptLibraries>
