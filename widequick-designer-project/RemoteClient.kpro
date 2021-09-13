@@ -1,5 +1,5 @@
 <?xml version='1.0'?>
-<Project UsePressAndHoldOnMultitouchScreens="false" ConfigurationFile="Default.krun" UserBackend="wqusers" SuppressConnectionError="true" StartPicture="Workviews/status.kvie" UseWQMonitor="true" MainMaximizable="false" Name="RemoteClient" WidgetMinimizeable="true" RaiseViewAppWide="true" XMLVersion="4" MainNoBorder="true" WidgetMaximizeable="true" MainMinimizable="false" ObjectsDefaultsFile="Toolbox.kdat">
+<Project Name="RemoteClient" MainNoBorder="true" UserBackend="wqusers" UseWQMonitor="true" MainMaximizable="false" MainMinimizable="false" StartPicture="Workviews/status.kvie" XMLVersion="4" ConfigurationFile="Default.krun" RaiseViewAppWide="true" WidgetMaximizeable="true" UsePressAndHoldOnMultitouchScreens="false" ObjectsDefaultsFile="Toolbox.kdat" SuppressConnectionError="true" WidgetMinimizeable="true">
  <Toolbox Src="Toolbox.kdat"/>
  <DataStore Src="DataStore.kdat"/>
  <DataTypes Src="DataTypes.kdat"/>
@@ -26,8 +26,8 @@
   <DataTypes/>
   <Scripts/>
   <Workviews Src="Workviews">
-   <Workview Src="status.kvie" Name="status"/>
-   <Workview Src="config.kvie" Name="config"/>
+   <Workview Name="status" Src="status.kvie"/>
+   <Workview Name="config" Src="config.kvie"/>
   </Workviews>
   <Loggers/>
   <Schedules/>
@@ -40,9 +40,9 @@
   <UnitSystems/>
  </ProjectTree>
  <Keyboards>
-  <KeyUnit Src="alphakeyboard.kdat" Name="Alpha keyboard"/>
-  <KeyUnit Src="numerickeyboard.kdat" Name="Numeric keyboard"/>
-  <KeyUnit Src="numerickeyboardtab.kdat" Name="Numeric keyboard (tab)"/>
-  <KeyUnit Src="qwertykeyboard.kdat" Name="Qwerty keyboard"/>
+  <KeyUnit Name="Alpha keyboard" Src="alphakeyboard.kdat"/>
+  <KeyUnit Name="Numeric keyboard" Src="numerickeyboard.kdat"/>
+  <KeyUnit Name="Numeric keyboard (tab)" Src="numerickeyboardtab.kdat"/>
+  <KeyUnit Name="Qwerty keyboard" Src="qwertykeyboard.kdat"/>
  </Keyboards>
 </Project>

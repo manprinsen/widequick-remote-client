@@ -1,9 +1,9 @@
 <?xml version='1.0'?>
-<Picture MousePanEnabled="false" Resizeable="false" ZoomRangeMin="10" StayOnTop="false" WidgetNoBorder="false" SizeGrip="false" ZoomRangeMax="1000" AntiAlias="true" Refresh="1000" MouseZoomEnabled="false" Height="450" Width="400" RubberBand="false" ScaleObjectsToPicture="false" ZoomTickCountAuto="true" ScrollbarPolicy="OnNeeded" ScrollbarZoomControl="false" Max="1" Name="config" PannableZoomable="false" RefreshInteractions="100" ZoomTickCount="100" MouseTracking="true" RefreshGraphics="100" AnimationsDuration="0" XMLVersion="4">
+<Picture MouseZoomEnabled="false" ZoomTickCountAuto="true" MousePanEnabled="false" ScaleObjectsToPicture="false" XMLVersion="4" RefreshGraphics="100" Refresh="1000" WidgetNoBorder="false" ScrollbarZoomControl="false" RubberBand="false" RefreshInteractions="100" Width="400" StayOnTop="false" ZoomRangeMax="1000" MouseTracking="true" AntiAlias="true" PannableZoomable="false" AnimationsDuration="0" ZoomRangeMin="10" ZoomTickCount="100" SizeGrip="false" ScrollbarPolicy="OnNeeded" Height="450" Name="config" Max="1" Resizeable="false">
  <Attributes>
   <BackColor Value="0"/>
  </Attributes>
- <Button Name="Button1" Type="oneshot" AutoSave="true">
+ <Button Name="Button1" AutoSave="true" Type="oneshot">
   <Origo X="left" Y="top"/>
   <Text Value="Spara"/>
   <TabIndex Value="0"/>
@@ -13,7 +13,7 @@
   <Height Value="30"/>
   <Visible Value="true"/>
   <Enabled Value="true"/>
-  <SizeModifiers Value="0" XPosRatio="0.05" WidthWRatio="0.55" HeightHRatio="0.0666667" YPosRatio="0.911111" WidthHRatio="0.488889" HeightWRatio="0.075"/>
+  <SizeModifiers HeightWRatio="0.075" WidthHRatio="0.488889" YPosRatio="0.911111" XPosRatio="0.05" WidthWRatio="0.55" HeightHRatio="0.0666667" Value="0"/>
   <Dynamics/>
   <Properties/>
   <EventListeners>
@@ -24,12 +24,12 @@
 this.view.close()</Script>
    </EventListener>
   </EventListeners>
-  <Font Underline="false" Overstrike="false" HorizontalAlignment="center" Color="ff000000" VerticalAlignment="center" Italic="false" Family="Arial" Bold="false" Size="18">
+  <Font VerticalAlignment="center" Bold="false" Overstrike="false" Size="18" Color="ff000000" Italic="false" Family="Arial" HorizontalAlignment="center" Underline="false">
    <Dynamics/>
   </Font>
   <State/>
  </Button>
- <TextBox UnitConvRule="" Name="TextBox1" Type="integer" AutoSave="true" DisplayUnit="false">
+ <TextBox Name="TextBox1" AutoSave="true" Type="integer" DisplayUnit="false" UnitConvRule="">
   <Origo X="left" Y="top"/>
   <TabIndex Value="1"/>
   <Text Variable="scConfig_v1_0_1.parameters.fixedWidth"/>
@@ -39,17 +39,17 @@ this.view.close()</Script>
   <Height Value="30"/>
   <Visible Value="true"/>
   <Enabled Value="true"/>
-  <SizeModifiers Value="0" XPosRatio="0.35" WidthWRatio="0.6" HeightHRatio="0.0666667" YPosRatio="0.0222222" WidthHRatio="0.533333" HeightWRatio="0.075"/>
+  <SizeModifiers HeightWRatio="0.075" WidthHRatio="0.533333" YPosRatio="0.0222222" XPosRatio="0.35" WidthWRatio="0.6" HeightHRatio="0.0666667" Value="0"/>
   <Dynamics/>
   <Properties/>
   <EventListeners/>
-  <Font Underline="false" Overstrike="false" HorizontalAlignment="center" Color="ff000000" VerticalAlignment="center" Italic="false" Family="Arial" Bold="false" Size="18">
+  <Font VerticalAlignment="center" Bold="false" Overstrike="false" Size="18" Color="ff000000" Italic="false" Family="Arial" HorizontalAlignment="center" Underline="false">
    <Dynamics/>
   </Font>
   <Min Value="0"/>
   <Max Value="INF"/>
  </TextBox>
- <Text Value="Bredd: " UnitConvRule="" Name="Text1" WordWrap="false">
+ <Text WordWrap="false" Name="Text1" Value="Bredd: " UnitConvRule="">
   <Origo X="left" Y="top"/>
   <TabIndex Value="2"/>
   <XPos Value="20"/>
@@ -59,7 +59,7 @@ this.view.close()</Script>
   <Rotation Value="0"/>
   <Visible Value="true"/>
   <Enabled Value="true"/>
-  <SizeModifiers Value="0" XPosRatio="0.05" WidthWRatio="0.145" HeightHRatio="0.0666667" YPosRatio="0.0222222" WidthHRatio="0.128889" HeightWRatio="0.075"/>
+  <SizeModifiers HeightWRatio="0.075" WidthHRatio="0.128889" YPosRatio="0.0222222" XPosRatio="0.05" WidthWRatio="0.145" HeightHRatio="0.0666667" Value="0"/>
   <Dynamics/>
   <Properties/>
   <EventListeners/>
@@ -76,11 +76,11 @@ this.view.close()</Script>
    <Width Value="1"/>
    <Dynamics/>
   </Pen>
-  <Font Underline="false" Overstrike="false" HorizontalAlignment="left" Color="ffffffff" VerticalAlignment="center" Italic="false" Family="Arial" Bold="false" Size="18">
+  <Font VerticalAlignment="center" Bold="false" Overstrike="false" Size="18" Color="ffffffff" Italic="false" Family="Arial" HorizontalAlignment="left" Underline="false">
    <Dynamics/>
   </Font>
  </Text>
- <TextBox UnitConvRule="" Name="TextBox2" Type="integer" AutoSave="true" DisplayUnit="false">
+ <TextBox Name="TextBox2" AutoSave="true" Type="integer" DisplayUnit="false" UnitConvRule="">
   <Origo X="left" Y="top"/>
   <TabIndex Value="3"/>
   <Text Variable="scConfig_v1_0_1.parameters.fixedHeight"/>
@@ -90,17 +90,17 @@ this.view.close()</Script>
   <Height Value="30"/>
   <Visible Value="true"/>
   <Enabled Value="true"/>
-  <SizeModifiers Value="0" XPosRatio="0.35" WidthWRatio="0.6" HeightHRatio="0.0666667" YPosRatio="0.111111" WidthHRatio="0.533333" HeightWRatio="0.075"/>
+  <SizeModifiers HeightWRatio="0.075" WidthHRatio="0.533333" YPosRatio="0.111111" XPosRatio="0.35" WidthWRatio="0.6" HeightHRatio="0.0666667" Value="0"/>
   <Dynamics/>
   <Properties/>
   <EventListeners/>
-  <Font Underline="false" Overstrike="false" HorizontalAlignment="center" Color="ff000000" VerticalAlignment="center" Italic="false" Family="Arial" Bold="false" Size="18">
+  <Font VerticalAlignment="center" Bold="false" Overstrike="false" Size="18" Color="ff000000" Italic="false" Family="Arial" HorizontalAlignment="center" Underline="false">
    <Dynamics/>
   </Font>
   <Min Value="0"/>
   <Max Value="INF"/>
  </TextBox>
- <Text Value="Höjd: " UnitConvRule="" Name="Text2" WordWrap="false">
+ <Text WordWrap="false" Name="Text2" Value="Höjd: " UnitConvRule="">
   <Origo X="left" Y="top"/>
   <TabIndex Value="4"/>
   <XPos Value="20"/>
@@ -110,7 +110,7 @@ this.view.close()</Script>
   <Rotation Value="0"/>
   <Visible Value="true"/>
   <Enabled Value="true"/>
-  <SizeModifiers Value="0" XPosRatio="0.05" WidthWRatio="0.1175" HeightHRatio="0.0666667" YPosRatio="0.111111" WidthHRatio="0.104444" HeightWRatio="0.075"/>
+  <SizeModifiers HeightWRatio="0.075" WidthHRatio="0.104444" YPosRatio="0.111111" XPosRatio="0.05" WidthWRatio="0.1175" HeightHRatio="0.0666667" Value="0"/>
   <Dynamics/>
   <Properties/>
   <EventListeners/>
@@ -127,11 +127,11 @@ this.view.close()</Script>
    <Width Value="1"/>
    <Dynamics/>
   </Pen>
-  <Font Underline="false" Overstrike="false" HorizontalAlignment="left" Color="ffffffff" VerticalAlignment="center" Italic="false" Family="Arial" Bold="false" Size="18">
+  <Font VerticalAlignment="center" Bold="false" Overstrike="false" Size="18" Color="ffffffff" Italic="false" Family="Arial" HorizontalAlignment="left" Underline="false">
    <Dynamics/>
   </Font>
  </Text>
- <Button Name="Button3" Type="toggle" AutoSave="true">
+ <Button Name="Button3" AutoSave="true" Type="toggle">
   <Origo X="left" Y="top"/>
   <Text Value="Av" Pressed="På"/>
   <TabIndex Value="5"/>
@@ -142,15 +142,15 @@ this.view.close()</Script>
   <Height Value="30"/>
   <Visible Value="true"/>
   <Enabled Value="true"/>
-  <SizeModifiers Value="0" XPosRatio="0.35" WidthWRatio="0.6" HeightHRatio="0.0666667" YPosRatio="0.2" WidthHRatio="0.533333" HeightWRatio="0.075"/>
+  <SizeModifiers HeightWRatio="0.075" WidthHRatio="0.533333" YPosRatio="0.2" XPosRatio="0.35" WidthWRatio="0.6" HeightHRatio="0.0666667" Value="0"/>
   <Dynamics/>
   <Properties/>
   <EventListeners/>
-  <Font Underline="false" Overstrike="false" HorizontalAlignment="center" Color="ff000000" VerticalAlignment="center" Italic="false" Family="Arial" Bold="false" Size="18">
+  <Font VerticalAlignment="center" Bold="false" Overstrike="false" Size="18" Color="ff000000" Italic="false" Family="Arial" HorizontalAlignment="center" Underline="false">
    <Dynamics/>
   </Font>
  </Button>
- <Text Value="Fullskärm:" UnitConvRule="" Name="Text3" WordWrap="false">
+ <Text WordWrap="false" Name="Text3" Value="Fullskärm:" UnitConvRule="">
   <Origo X="left" Y="top"/>
   <TabIndex Value="6"/>
   <XPos Value="20"/>
@@ -160,7 +160,7 @@ this.view.close()</Script>
   <Rotation Value="0"/>
   <Visible Value="true"/>
   <Enabled Value="true"/>
-  <SizeModifiers Value="0" XPosRatio="0.05" WidthWRatio="0.205" HeightHRatio="0.0666667" YPosRatio="0.2" WidthHRatio="0.182222" HeightWRatio="0.075"/>
+  <SizeModifiers HeightWRatio="0.075" WidthHRatio="0.182222" YPosRatio="0.2" XPosRatio="0.05" WidthWRatio="0.205" HeightHRatio="0.0666667" Value="0"/>
   <Dynamics/>
   <Properties/>
   <EventListeners/>
@@ -177,11 +177,11 @@ this.view.close()</Script>
    <Width Value="1"/>
    <Dynamics/>
   </Pen>
-  <Font Underline="false" Overstrike="false" HorizontalAlignment="left" Color="ffffffff" VerticalAlignment="center" Italic="false" Family="Arial" Bold="false" Size="18">
+  <Font VerticalAlignment="center" Bold="false" Overstrike="false" Size="18" Color="ffffffff" Italic="false" Family="Arial" HorizontalAlignment="left" Underline="false">
    <Dynamics/>
   </Font>
  </Text>
- <TextBox UnitConvRule="" Name="TextBox3" Type="text" AutoSave="true" DisplayUnit="false">
+ <TextBox Name="TextBox3" AutoSave="true" Type="text" DisplayUnit="false" UnitConvRule="">
   <Origo X="left" Y="top"/>
   <TabIndex Value="7"/>
   <Text Variable="scConfig_v1_0_1.parameters.remoteSystemName"/>
@@ -191,15 +191,15 @@ this.view.close()</Script>
   <Height Value="30"/>
   <Visible Value="true"/>
   <Enabled Value="false"/>
-  <SizeModifiers Value="0" XPosRatio="0.35" WidthWRatio="0.6" HeightHRatio="0.0666667" YPosRatio="0.288889" WidthHRatio="0.533333" HeightWRatio="0.075"/>
+  <SizeModifiers HeightWRatio="0.075" WidthHRatio="0.533333" YPosRatio="0.288889" XPosRatio="0.35" WidthWRatio="0.6" HeightHRatio="0.0666667" Value="0"/>
   <Dynamics/>
   <Properties/>
   <EventListeners/>
-  <Font Underline="false" Overstrike="false" HorizontalAlignment="center" Color="ff000000" VerticalAlignment="center" Italic="false" Family="Arial" Bold="false" Size="18">
+  <Font VerticalAlignment="center" Bold="false" Overstrike="false" Size="18" Color="ff000000" Italic="false" Family="Arial" HorizontalAlignment="center" Underline="false">
    <Dynamics/>
   </Font>
  </TextBox>
- <Text Value="Server:" UnitConvRule="" Name="Text4" WordWrap="false">
+ <Text WordWrap="false" Name="Text4" Value="Server:" UnitConvRule="">
   <Origo X="left" Y="top"/>
   <TabIndex Value="8"/>
   <XPos Value="20"/>
@@ -209,7 +209,7 @@ this.view.close()</Script>
   <Rotation Value="0"/>
   <Visible Value="true"/>
   <Enabled Value="true"/>
-  <SizeModifiers Value="0" XPosRatio="0.05" WidthWRatio="0.145" HeightHRatio="0.0666667" YPosRatio="0.288889" WidthHRatio="0.128889" HeightWRatio="0.075"/>
+  <SizeModifiers HeightWRatio="0.075" WidthHRatio="0.128889" YPosRatio="0.288889" XPosRatio="0.05" WidthWRatio="0.145" HeightHRatio="0.0666667" Value="0"/>
   <Dynamics/>
   <Properties/>
   <EventListeners/>
@@ -226,11 +226,11 @@ this.view.close()</Script>
    <Width Value="1"/>
    <Dynamics/>
   </Pen>
-  <Font Underline="false" Overstrike="false" HorizontalAlignment="left" Color="ffffffff" VerticalAlignment="center" Italic="false" Family="Arial" Bold="false" Size="18">
+  <Font VerticalAlignment="center" Bold="false" Overstrike="false" Size="18" Color="ffffffff" Italic="false" Family="Arial" HorizontalAlignment="left" Underline="false">
    <Dynamics/>
   </Font>
  </Text>
- <Text Value="Startvy:" UnitConvRule="" Name="Text5" WordWrap="false">
+ <Text WordWrap="false" Name="Text5" Value="Startvy:" UnitConvRule="">
   <Origo X="left" Y="top"/>
   <TabIndex Value="9"/>
   <XPos Value="20"/>
@@ -240,7 +240,7 @@ this.view.close()</Script>
   <Rotation Value="0"/>
   <Visible Value="true"/>
   <Enabled Value="true"/>
-  <SizeModifiers Value="0" XPosRatio="0.05" WidthWRatio="0.1525" HeightHRatio="0.0666667" YPosRatio="0.377778" WidthHRatio="0.135556" HeightWRatio="0.075"/>
+  <SizeModifiers HeightWRatio="0.075" WidthHRatio="0.135556" YPosRatio="0.377778" XPosRatio="0.05" WidthWRatio="0.1525" HeightHRatio="0.0666667" Value="0"/>
   <Dynamics/>
   <Properties/>
   <EventListeners/>
@@ -257,11 +257,11 @@ this.view.close()</Script>
    <Width Value="1"/>
    <Dynamics/>
   </Pen>
-  <Font Underline="false" Overstrike="false" HorizontalAlignment="left" Color="ffffffff" VerticalAlignment="center" Italic="false" Family="Arial" Bold="false" Size="18">
+  <Font VerticalAlignment="center" Bold="false" Overstrike="false" Size="18" Color="ffffffff" Italic="false" Family="Arial" HorizontalAlignment="left" Underline="false">
    <Dynamics/>
   </Font>
  </Text>
- <Text Value="Auto-anslut:" UnitConvRule="" Name="Text6" WordWrap="false">
+ <Text WordWrap="false" Name="Text6" Value="Auto-anslut:" UnitConvRule="">
   <Origo X="left" Y="top"/>
   <TabIndex Value="10"/>
   <XPos Value="20"/>
@@ -271,7 +271,7 @@ this.view.close()</Script>
   <Rotation Value="0"/>
   <Visible Value="true"/>
   <Enabled Value="true"/>
-  <SizeModifiers Value="0" XPosRatio="0.05" WidthWRatio="0.2375" HeightHRatio="0.0666667" YPosRatio="0.466667" WidthHRatio="0.211111" HeightWRatio="0.075"/>
+  <SizeModifiers HeightWRatio="0.075" WidthHRatio="0.211111" YPosRatio="0.466667" XPosRatio="0.05" WidthWRatio="0.2375" HeightHRatio="0.0666667" Value="0"/>
   <Dynamics/>
   <Properties/>
   <EventListeners/>
@@ -288,11 +288,11 @@ this.view.close()</Script>
    <Width Value="1"/>
    <Dynamics/>
   </Pen>
-  <Font Underline="false" Overstrike="false" HorizontalAlignment="left" Color="ffffffff" VerticalAlignment="center" Italic="false" Family="Arial" Bold="false" Size="18">
+  <Font VerticalAlignment="center" Bold="false" Overstrike="false" Size="18" Color="ffffffff" Italic="false" Family="Arial" HorizontalAlignment="left" Underline="false">
    <Dynamics/>
   </Font>
  </Text>
- <TextBox UnitConvRule="" Name="TextBox4" Type="text" AutoSave="true" DisplayUnit="false">
+ <TextBox Name="TextBox4" AutoSave="true" Type="text" DisplayUnit="false" UnitConvRule="">
   <Origo X="left" Y="top"/>
   <TabIndex Value="11"/>
   <Text Variable="scConfig_v1_0_1.parameters.startView"/>
@@ -302,15 +302,15 @@ this.view.close()</Script>
   <Height Value="30"/>
   <Visible Value="true"/>
   <Enabled Value="true"/>
-  <SizeModifiers Value="0" XPosRatio="0.35" WidthWRatio="0.6" HeightHRatio="0.0666667" YPosRatio="0.377778" WidthHRatio="0.533333" HeightWRatio="0.075"/>
+  <SizeModifiers HeightWRatio="0.075" WidthHRatio="0.533333" YPosRatio="0.377778" XPosRatio="0.35" WidthWRatio="0.6" HeightHRatio="0.0666667" Value="0"/>
   <Dynamics/>
   <Properties/>
   <EventListeners/>
-  <Font Underline="false" Overstrike="false" HorizontalAlignment="center" Color="ff000000" VerticalAlignment="center" Italic="false" Family="Arial" Bold="false" Size="18">
+  <Font VerticalAlignment="center" Bold="false" Overstrike="false" Size="18" Color="ff000000" Italic="false" Family="Arial" HorizontalAlignment="center" Underline="false">
    <Dynamics/>
   </Font>
  </TextBox>
- <Button Name="Button4" Type="toggle" AutoSave="true">
+ <Button Name="Button4" AutoSave="true" Type="toggle">
   <Origo X="left" Y="top"/>
   <Text Value="Av" Pressed="På"/>
   <TabIndex Value="12"/>
@@ -321,15 +321,15 @@ this.view.close()</Script>
   <Height Value="30"/>
   <Visible Value="true"/>
   <Enabled Value="true"/>
-  <SizeModifiers Value="0" XPosRatio="0.35" WidthWRatio="0.6" HeightHRatio="0.0666667" YPosRatio="0.466667" WidthHRatio="0.533333" HeightWRatio="0.075"/>
+  <SizeModifiers HeightWRatio="0.075" WidthHRatio="0.533333" YPosRatio="0.466667" XPosRatio="0.35" WidthWRatio="0.6" HeightHRatio="0.0666667" Value="0"/>
   <Dynamics/>
   <Properties/>
   <EventListeners/>
-  <Font Underline="false" Overstrike="false" HorizontalAlignment="center" Color="ff000000" VerticalAlignment="center" Italic="false" Family="Arial" Bold="false" Size="18">
+  <Font VerticalAlignment="center" Bold="false" Overstrike="false" Size="18" Color="ff000000" Italic="false" Family="Arial" HorizontalAlignment="center" Underline="false">
    <Dynamics/>
   </Font>
  </Button>
- <Button Name="Button2" Type="oneshot" AutoSave="true">
+ <Button Name="Button2" AutoSave="true" Type="oneshot">
   <Origo X="left" Y="top"/>
   <Text Value="Avbryt"/>
   <TabIndex Value="13"/>
@@ -339,7 +339,7 @@ this.view.close()</Script>
   <Height Value="30"/>
   <Visible Value="true"/>
   <Enabled Value="true"/>
-  <SizeModifiers Value="0" XPosRatio="0.625" WidthWRatio="0.325" HeightHRatio="0.0666667" YPosRatio="0.911111" WidthHRatio="0.288889" HeightWRatio="0.075"/>
+  <SizeModifiers HeightWRatio="0.075" WidthHRatio="0.288889" YPosRatio="0.911111" XPosRatio="0.625" WidthWRatio="0.325" HeightHRatio="0.0666667" Value="0"/>
   <Dynamics/>
   <Properties/>
   <EventListeners>
@@ -347,14 +347,14 @@ this.view.close()</Script>
     <Script>this.view.close()</Script>
    </EventListener>
   </EventListeners>
-  <Font Underline="false" Overstrike="false" HorizontalAlignment="center" Color="ff000000" VerticalAlignment="center" Italic="false" Family="Arial" Bold="false" Size="18">
+  <Font VerticalAlignment="center" Bold="false" Overstrike="false" Size="18" Color="ff000000" Italic="false" Family="Arial" HorizontalAlignment="center" Underline="false">
    <Dynamics/>
   </Font>
   <State/>
  </Button>
- <Button Name="Button5" Type="oneshot" AutoSave="true">
+ <Button Name="Button5" AutoSave="true" Type="oneshot">
   <Origo X="left" Y="top"/>
-  <Text Value="Återställ installningar"/>
+  <Text Value="Återställ inställningar"/>
   <TabIndex Value="14"/>
   <XPos Value="140"/>
   <YPos Value="330"/>
@@ -362,7 +362,7 @@ this.view.close()</Script>
   <Height Value="30"/>
   <Visible Value="true"/>
   <Enabled Value="true"/>
-  <SizeModifiers Value="0" XPosRatio="0.35" WidthWRatio="0.6" HeightHRatio="0.0666667" YPosRatio="0.733333" WidthHRatio="0.533333" HeightWRatio="0.075"/>
+  <SizeModifiers HeightWRatio="0.075" WidthHRatio="0.533333" YPosRatio="0.733333" XPosRatio="0.35" WidthWRatio="0.6" HeightHRatio="0.0666667" Value="0"/>
   <Dynamics/>
   <Properties/>
   <EventListeners>
@@ -371,12 +371,12 @@ this.view.close()</Script>
 	scConfig_v1_0_1.getDefaultConfig()</Script>
    </EventListener>
   </EventListeners>
-  <Font Underline="false" Overstrike="false" HorizontalAlignment="center" Color="ff000000" VerticalAlignment="center" Italic="false" Family="Arial" Bold="false" Size="18">
+  <Font VerticalAlignment="center" Bold="false" Overstrike="false" Size="18" Color="ff000000" Italic="false" Family="Arial" HorizontalAlignment="center" Underline="false">
    <Dynamics/>
   </Font>
   <State/>
  </Button>
- <Button Name="Button6" Type="oneshot" AutoSave="true">
+ <Button Name="Button6" AutoSave="true" Type="oneshot">
   <Origo X="left" Y="top"/>
   <Text Value="Stäng av klient"/>
   <TabIndex Value="15"/>
@@ -386,7 +386,7 @@ this.view.close()</Script>
   <Height Value="30"/>
   <Visible Value="true"/>
   <Enabled Value="true"/>
-  <SizeModifiers Value="0" XPosRatio="0.35" WidthWRatio="0.6" HeightHRatio="0.0666667" YPosRatio="0.822222" WidthHRatio="0.533333" HeightWRatio="0.075"/>
+  <SizeModifiers HeightWRatio="0.075" WidthHRatio="0.533333" YPosRatio="0.822222" XPosRatio="0.35" WidthWRatio="0.6" HeightHRatio="0.0666667" Value="0"/>
   <Dynamics/>
   <Properties/>
   <EventListeners>
@@ -395,12 +395,12 @@ this.view.close()</Script>
 	windowManager.firstView.close()</Script>
    </EventListener>
   </EventListeners>
-  <Font Underline="false" Overstrike="false" HorizontalAlignment="center" Color="ff000000" VerticalAlignment="center" Italic="false" Family="Arial" Bold="false" Size="18">
+  <Font VerticalAlignment="center" Bold="false" Overstrike="false" Size="18" Color="ff000000" Italic="false" Family="Arial" HorizontalAlignment="center" Underline="false">
    <Dynamics/>
   </Font>
   <State/>
  </Button>
- <Button Name="Button7" Type="oneshot" AutoSave="true">
+ <Button Name="Button7" AutoSave="true" Type="oneshot">
   <Origo X="left" Y="top"/>
   <Text Value="Redigera fjärrsystem"/>
   <TabIndex Value="16"/>
@@ -410,7 +410,7 @@ this.view.close()</Script>
   <Height Value="30"/>
   <Visible Value="true"/>
   <Enabled Value="true"/>
-  <SizeModifiers Value="0" XPosRatio="0.35" WidthWRatio="0.6" HeightHRatio="0.0666667" YPosRatio="0.644444" WidthHRatio="0.533333" HeightWRatio="0.075"/>
+  <SizeModifiers HeightWRatio="0.075" WidthHRatio="0.533333" YPosRatio="0.644444" XPosRatio="0.35" WidthWRatio="0.6" HeightHRatio="0.0666667" Value="0"/>
   <Dynamics/>
   <Properties/>
   <EventListeners>
@@ -418,15 +418,15 @@ this.view.close()</Script>
     <Script>System.editRemoteSystems();
 
 var rs = scConfig_v1_0_1.getRemoteSystem()
-scConfig_v1_0_1.parameters.remoteSystem = rs.substringBetween('_sys_remote_system_', '_connected')</Script>
+scConfig_v1_0_1.parameters.remoteSystemName = rs.substringBetween('_sys_remote_system_', '_connected')</Script>
    </EventListener>
   </EventListeners>
-  <Font Underline="false" Overstrike="false" HorizontalAlignment="center" Color="ff000000" VerticalAlignment="center" Italic="false" Family="Arial" Bold="false" Size="18">
+  <Font VerticalAlignment="center" Bold="false" Overstrike="false" Size="18" Color="ff000000" Italic="false" Family="Arial" HorizontalAlignment="center" Underline="false">
    <Dynamics/>
   </Font>
   <State/>
  </Button>
- <Button Name="Button8" Type="oneshot" AutoSave="true">
+ <Button Name="Button8" AutoSave="true" Type="oneshot">
   <Origo X="left" Y="top"/>
   <Text Value="Visa debuggträd"/>
   <TabIndex Value="17"/>
@@ -436,7 +436,7 @@ scConfig_v1_0_1.parameters.remoteSystem = rs.substringBetween('_sys_remote_syste
   <Height Value="30"/>
   <Visible Value="true"/>
   <Enabled Value="true"/>
-  <SizeModifiers Value="0" XPosRatio="0.35" WidthWRatio="0.6" HeightHRatio="0.0666667" YPosRatio="0.555556" WidthHRatio="0.533333" HeightWRatio="0.075"/>
+  <SizeModifiers HeightWRatio="0.075" WidthHRatio="0.533333" YPosRatio="0.555556" XPosRatio="0.35" WidthWRatio="0.6" HeightHRatio="0.0666667" Value="0"/>
   <Dynamics/>
   <Properties/>
   <EventListeners>
@@ -444,7 +444,7 @@ scConfig_v1_0_1.parameters.remoteSystem = rs.substringBetween('_sys_remote_syste
     <Script>Debugger.showObjectTree()</Script>
    </EventListener>
   </EventListeners>
-  <Font Underline="false" Overstrike="false" HorizontalAlignment="center" Color="ff000000" VerticalAlignment="center" Italic="false" Family="Arial" Bold="false" Size="18">
+  <Font VerticalAlignment="center" Bold="false" Overstrike="false" Size="18" Color="ff000000" Italic="false" Family="Arial" HorizontalAlignment="center" Underline="false">
    <Dynamics/>
   </Font>
   <State/>

@@ -4,13 +4,6 @@ if(scConfig_v1_0_1.parameters.remoteSystemName == undefined){
 }
 
 this.connection = new Timer();
-scConfig_v1_0_1.parameters.tryToConnect
-scConfig_v1_0_1.parameters.fullScreen
-scConfig_v1_0_1.parameters.fixedWidth
-scConfig_v1_0_1.parameters.fixedHeight
-scConfig_v1_0_1.parameters.startView
-scConfig_v1_0_1.parameters.remoteSystem
-scConfig_v1_0_1.parameters.remoteSystemName
 
 this.connection.onTimeout = function(){
 	if(scConfig_v1_0_1.parameters.tryToConnect){

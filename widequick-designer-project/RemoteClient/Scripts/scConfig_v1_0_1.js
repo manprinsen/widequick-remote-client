@@ -1,6 +1,5 @@
 if(app.GetWQInstance() != "WQRemote"){
 	alert("You are not running this project as a WQRemote.\nSome functions will not work.")
-	//return
 }
 
 this.save = function(){
@@ -18,7 +17,7 @@ this.getRemoteSystem = function(){
 }
 
 this.getDefaultConfig = function(){
-	this.parameters.tryToConnect = true
+	this.parameters.tryToConnect = false
 	this.parameters.fullScreen = false
 	this.parameters.fixedWidth = 1366
 	this.parameters.fixedHeight = 768
